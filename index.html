@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="PriceTracker Pro — Track grocery prices, compare deals, and never overpay again.">
+    <title>PriceTracker Pro — Smart Grocery Price Dashboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body class="theme-dark">
+
+    <!-- Sidebar Overlay (mobile) -->
+    <div id="sidebar-overlay" class="sidebar-overlay"></div>
+
+    <!-- Sidebar -->
+    <nav id="sidebar" class="sidebar">
+        <div class="sidebar-header">
+            <div class="sidebar-brand">
+                <i class="fa-solid fa-layer-group"></i>
+                <span class="sidebar-title">Categories</span>
+            </div>
+            <button class="btn-icon" id="toggleGroupViewBtn" title="Toggle Group View">
+                <i class="fa-solid fa-list-ul"></i>
+            </button>
+            <button class="btn-icon" id="refreshCats" title="Refresh categories">
+                <i class="fa-solid fa-arrows-rotate"></i>
+            </button>
+        </div>
+
+        <div class="sidebar-search">
+            <i class="fa-solid fa-magnifying-glass"></i>
+            <input type="text" id="catSearch" placeholder="Search categories...">
+        </div>
+
+        <div class="category-scroll-container">
+            <label class="toggle-all-row">
+                <input type="checkbox" id="selectAllCats">
+                <i class="fa-solid fa-eye"></i>
+                <span>Toggle All View</span>
+            </label>
+            <ul class="category-list" id="categoryList">
+                <!-- Categories injected here -->
+            </ul>
+        </div>
+
+        <div class="sidebar-footer">
+            <div class="add-category-form">
+                <div class="form-group">
+                    <i class="fa-solid fa-tag"></i>
+                    <input type="text" id="newCatName" placeholder="Category name">
+                </div>
+                <div class="form-group">
+                    <i class="fa-solid fa-link"></i>
+                    <input type="text" id="newCatUrl" placeholder="Source URL">
+                </div>
+                <button class="btn btn-secondary btn-block" id="addCatBtn">
+                    <i class="fa-solid fa-plus"></i> Add Category
+                </button>
+            </div>
+            <button class="btn btn-primary btn-block" id="scrapeNowBtn">
+                <i class="fa-solid fa-bolt"></i> Run Scraper
+            </button>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <header class="app-header">
+            <div class="header-left">
+                <button id="toggleSidebarBtn" class="hamburger" aria-label="Toggle sidebar">
+                    <span></span><span></span><span></span>
+                </button>
+                <h1 class="logo">Price<span class="logo-accent">Tracker</span></h1>
+            </div>
+            <div class="controls">
+                <button id="recentUpdatesBtn" class="btn btn-sm">
+                    <i class="fa-solid fa-clock-rotate-left"></i>
+                    <span class="btn-label">Recent</span>
+                </button>
+                <button id="toggleCompareBtn" class="btn btn-sm">
+                    <i class="fa-solid fa-code-compare"></i>
+                    <span class="btn-label">Compare</span>
+                </button>
+                <button id="showChangesBtn" class="btn btn-sm">
+                    <i class="fa-solid fa-chart-line"></i>
+                    <span class="btn-label">Changes</span>
+                </button>
+                <button id="groupToggleBtn" class="btn btn-sm">
+                    <i class="fa-solid fa-folder-tree"></i>
+                    <span class="btn-label">Group</span>
+                </button>
+
+                <div class="select-wrapper">
+                    <select id="sortSelect">
+                        <option value="fav">★ Favorites</option>
+                        <option value="name">A-Z Name</option>
+                        <option value="priceAsc">Price ↑</option>
+                        <option value="priceDesc">Price ↓</option>
+                    </select>
+                </div>
+
+                <div class="select-wrapper">
+                    <select id="filterType">
+                        <option value="all">All Units</option>
+                        <option value="kg">Kg</option>
+                        <option value="liter">Liter</option>
+                        <option value="piece">Piece</option>
+                        <option value="bundle">Bundle</option>
+                    </select>
+                </div>
+
+                <div class="search-box">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                    <input type="text" id="searchInput" placeholder="Search products...">
+                </div>
+
+                <button id="themeToggle" class="btn-icon" title="Toggle theme">
+                    <i class="fa-solid fa-circle-half-stroke"></i>
+                </button>
+            </div>
+        </header>
+
+        <div id="product-scroll-area">
+            <div id="stats-bar">
+                <div class="stat-pill">
+                    <i class="fa-solid fa-box-open"></i>
+                    <span>Items</span>
+                    <b id="totalItems">0</b>
+                </div>
+                <div class="stat-pill">
+                    <i class="fa-solid fa-tags"></i>
+                    <span>Categories</span>
+                    <b id="totalCats">0</b>
+                </div>
+                <div class="stat-pill stat-deals" id="dealsStat" style="cursor: pointer;"
+                    title="Click to show price drops">
+                    <i class="fa-solid fa-fire-flame-curved"></i>
+                    <span>Deals</span>
+                    <b id="priceDrops">0</b>
+                </div>
+                <div class="stat-pill">
+                    <i class="fa-solid fa-clock"></i>
+                    <span>Updated</span>
+                    <b id="lastUpdate">-</b>
+                </div>
+            </div>
+            <div class="changes-options" id="changesOptions">
+                <div class="select-wrapper">
+                    <select id="changesMovement">
+                        <option value="any">Any Movement</option>
+                        <option value="up">Price Increased ↑</option>
+                        <option value="down">Price Decreased ↓</option>
+                    </select>
+                </div>
+                <div class="select-wrapper">
+                    <select id="changesSort">
+                        <option value="diffDesc">Major Changes First</option>
+                        <option value="diffAsc">Minor Changes First</option>
+                    </select>
+                </div>
+                <span style="font-size: 0.8rem; color: var(--text-muted); margin-left: auto;">
+                    <i class="fa-solid fa-circle-info"></i> Advanced Filtering for Changes
+                </span>
+            </div>
+            <div id="product-grid" class="grid-view"></div>
+        </div>
+    </main>
+
+    <!-- History Modal -->
+    <div id="historyModal" class="modal hidden">
+        <div class="modal-backdrop"></div>
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modalTitle">
+                    <i class="fa-solid fa-chart-area"></i>
+                    <span>Price History</span>
+                </h2>
+                <button class="close-modal" aria-label="Close modal">
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+            </div>
+            <div class="modal-details" id="modalDetails"></div>
+            <div class="chart-container">
+                <canvas id="priceChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- Recent Updates Modal -->
+    <div id="recentUpdatesModal" class="modal hidden">
+        <div class="modal-backdrop"></div>
+        <div class="modal-content" style="max-width: 400px;">
+            <div class="modal-header">
+                <h2><i class="fa-solid fa-clock-rotate-left"></i> Recent Updates</h2>
+                <button class="close-modal" onclick="closeRecentModal()"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+            <div class="modal-body" style="padding: 20px;">
+                <div style="display:flex; gap:10px; margin-bottom:15px;">
+                    <div style="flex:1;">
+                        <label style="display:block; font-size:0.8rem; margin-bottom:5px; color:var(--text-muted);">From
+                            Date</label>
+                        <input type="date" id="updateFromDate"
+                            style="width:100%; padding:8px; border-radius:6px; border:1px solid var(--border); background:var(--glass-bg); color:var(--text);">
+                    </div>
+                    <div style="flex:1;">
+                        <label style="display:block; font-size:0.8rem; margin-bottom:5px; color:var(--text-muted);">To
+                            Date</label>
+                        <input type="date" id="updateToDate"
+                            style="width:100%; padding:8px; border-radius:6px; border:1px solid var(--border); background:var(--glass-bg); color:var(--text);">
+                    </div>
+                </div>
+                <button id="applyUpdatesFilterBtn" class="btn btn-primary btn-block">
+                    Show Changes
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Compare Bar -->
+    <aside id="compareBar" class="compare-bar">
+        <i class="fa-solid fa-scale-balanced"></i>
+        <span id="compareCount">0 items</span>
+        <button class="btn btn-sm btn-accent" id="doCompareBtn">
+            <i class="fa-solid fa-chart-bar"></i> View Graph
+        </button>
+        <button class="btn btn-sm" onclick="clearCompare()">
+            <i class="fa-solid fa-trash-can"></i> Clear
+        </button>
+    </aside>
+
+    <script src="categories.js"></script>
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
