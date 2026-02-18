@@ -73,7 +73,7 @@ window.PRODUCT_DATA = {
     "id": "flat_bean_sheem__500_gm",
     "name": "Flat Bean (Sheem)",
     "image": "https://chaldn.com/_mpimage/flat-bean-sheem-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71001&q=best&v=1&m=400&webp=1",
-    "current_price": 25.0,
+    "current_price": 29.0,
     "current_unit": "500 gm",
     "history": [
       {
@@ -102,21 +102,21 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 25.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 29.0,
         "unit": "500 gm",
-        "norm_price": 50.0,
+        "norm_price": 58.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "50.0 / 1 kg",
+    "norm_price_display": "58.0 / 1 kg",
     "category": "Fresh Vegetables"
   },
   "badhakopi_cabbage__each": {
     "id": "badhakopi_cabbage__each",
     "name": "Badhakopi (Cabbage)",
     "image": "https://chaldn.com/_mpimage/badhakopi-cabbage-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D5740&q=best&v=1&m=400&webp=1",
-    "current_price": 39.0,
+    "current_price": 45.0,
     "current_unit": "each",
     "history": [
       {
@@ -145,21 +145,21 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 39.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 45.0,
         "unit": "each",
-        "norm_price": 39.0,
+        "norm_price": 45.0,
         "norm_unit": "each"
       }
     ],
-    "norm_price_display": "39.0 / each",
+    "norm_price_display": "45.0 / each",
     "category": "Fresh Vegetables"
   },
   "onion_flower_250_gm": {
     "id": "onion_flower_250_gm",
     "name": "Onion Flower",
     "image": "https://chaldn.com/_mpimage/onion-flower-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131568&q=best&v=1&m=400&webp=1",
-    "current_price": 19.0,
+    "current_price": 15.0,
     "current_unit": "250 gm",
     "history": [
       {
@@ -188,21 +188,21 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 19.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 15.0,
         "unit": "250 gm",
-        "norm_price": 76.0,
+        "norm_price": 60.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "76.0 / 1 kg",
+    "norm_price_display": "60.0 / 1 kg",
     "category": "Fresh Vegetables"
   },
   "potato_regular_50_gm__1_kg": {
     "id": "potato_regular_50_gm__1_kg",
     "name": "Potato Regular (\u00b1 50 gm)",
     "image": "https://chaldn.com/_mpimage/potato-regular-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D164304&q=best&v=1&m=400&webp=1",
-    "current_price": 24.0,
+    "current_price": 23.0,
     "current_unit": "1 kg",
     "history": [
       {
@@ -231,14 +231,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 24.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 23.0,
         "unit": "1 kg",
-        "norm_price": 24.0,
+        "norm_price": 23.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "24.0 / 1 kg",
+    "norm_price_display": "23.0 / 1 kg",
     "category": "Fresh Vegetables"
   },
   "coriander_leaves_dhonia_pata_10_gm_100_gm": {
@@ -374,7 +374,7 @@ window.PRODUCT_DATA = {
     "id": "lal_alu_red_potato_cardinal_50_gm_1_kg",
     "name": "Lal Alu (Red Potato Cardinal) \u00b1 50 gm",
     "image": "https://chaldn.com/_mpimage/lal-alu-red-potato-cardinal-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76922&q=low&v=1&m=400&webp=1",
-    "current_price": 28.0,
+    "current_price": 25.0,
     "current_unit": "1 kg",
     "history": [
       {
@@ -403,14 +403,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 28.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 25.0,
         "unit": "1 kg",
-        "norm_price": 28.0,
+        "norm_price": 25.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "28.0 / 1 kg",
+    "norm_price_display": "25.0 / 1 kg",
     "category": "Fresh Vegetables"
   },
   "kacha_morich_green_chilli_12_gm_250_gm": {
@@ -546,7 +546,7 @@ window.PRODUCT_DATA = {
     "id": "lal_shak_red_spinach__1_bundle",
     "name": "Lal Shak (Red Spinach)",
     "image": "https://chaldn.com/_mpimage/lal-shak-red-spinach-1-bundle?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7226&q=low&v=1&m=400&webp=1",
-    "current_price": 25.0,
+    "current_price": 19.0,
     "current_unit": "1 bundle",
     "history": [
       {
@@ -575,21 +575,21 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T04:57:04.010287",
-        "price": 25.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 19.0,
         "unit": "1 bundle",
-        "norm_price": 25.0,
+        "norm_price": 19.0,
         "norm_unit": "1 bundle"
       }
     ],
-    "norm_price_display": "25.0 / 1 bundle",
+    "norm_price_display": "19.0 / 1 bundle",
     "category": "Fresh Vegetables"
   },
   "kacha_morich_green_chilli_12_gm_100_gm": {
     "id": "kacha_morich_green_chilli_12_gm_100_gm",
     "name": "Kacha Morich (Green Chilli) \u00b1 12 gm",
     "image": "https://chaldn.com/_mpimage/kacha-morich-green-chilli-12-gm-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D183023&q=low&v=1&m=400&webp=1",
-    "current_price": 19.0,
+    "current_price": 17.0,
     "current_unit": "100 gm",
     "history": [
       {
@@ -618,14 +618,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T04:57:04.010287",
-        "price": 19.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 17.0,
         "unit": "100 gm",
-        "norm_price": 190.0,
+        "norm_price": 170.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "190.0 / 1 kg",
+    "norm_price_display": "170.0 / 1 kg",
     "category": "Fresh Vegetables"
   },
   "deshi_shosha_local_cucumber_25_gm_500_gm": {
@@ -1105,7 +1105,7 @@ window.PRODUCT_DATA = {
     "id": "misti_alu_sweet_potato_25_gm_500_gm",
     "name": "Misti Alu (Sweet Potato) \u00b1 25 gm",
     "image": "https://chaldn.com/_mpimage/misti-alu-sweet-potato-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54835&q=best&v=1&m=400&webp=1",
-    "current_price": 39.0,
+    "current_price": 35.0,
     "current_unit": "500 gm",
     "history": [
       {
@@ -1134,14 +1134,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T04:57:04.010287",
-        "price": 39.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 35.0,
         "unit": "500 gm",
-        "norm_price": 78.0,
+        "norm_price": 70.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "78.0 / 1 kg",
+    "norm_price_display": "70.0 / 1 kg",
     "category": "Fresh Vegetables"
   },
   "lau_bottle_gourd__each": {
@@ -1234,7 +1234,7 @@ window.PRODUCT_DATA = {
     "id": "borboti_long_bean_25_gm_500_gm",
     "name": "Borboti (Long Bean) \u00b1 25 gm",
     "image": "https://chaldn.com/_mpimage/borboti-long-bean-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22410&q=low&v=1&m=400&webp=1",
-    "current_price": 79.0,
+    "current_price": 75.0,
     "current_unit": "500 gm",
     "history": [
       {
@@ -1263,14 +1263,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 79.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 75.0,
         "unit": "500 gm",
-        "norm_price": 158.0,
+        "norm_price": 150.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "158.0 / 1 kg",
+    "norm_price_display": "150.0 / 1 kg",
     "category": "Fresh Vegetables"
   },
   "chichinga_snake_gourd_25_gm_500_gm": {
@@ -1363,7 +1363,7 @@ window.PRODUCT_DATA = {
     "id": "lomba_kalo_begun_long_brinjal_black_25_gm_500_gm",
     "name": "Lomba Kalo Begun (Long Brinjal Black) \u00b1 25 gm",
     "image": "https://chaldn.com/_mpimage/lomba-kalo-begun-long-brinjal-black-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D43558&q=low&v=1&m=400&webp=1",
-    "current_price": 65.0,
+    "current_price": 59.0,
     "current_unit": "500 gm",
     "history": [
       {
@@ -1392,14 +1392,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 65.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 59.0,
         "unit": "500 gm",
-        "norm_price": 130.0,
+        "norm_price": 118.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "130.0 / 1 kg",
+    "norm_price_display": "118.0 / 1 kg",
     "category": "Ramadan"
   },
   "kochur_mukhi_taro_roots_25_gm_500_gm": {
@@ -1492,7 +1492,7 @@ window.PRODUCT_DATA = {
     "id": "potato_regular_25_gm__600_gm",
     "name": "Potato Regular (\u00b1 25 gm)",
     "image": "https://chaldn.com/_mpimage/potato-regular-25-gm-600-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D164303&q=best&v=1&m=400&webp=1",
-    "current_price": 17.0,
+    "current_price": 14.0,
     "current_unit": "600 gm",
     "history": [
       {
@@ -1521,21 +1521,21 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 17.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 14.0,
         "unit": "600 gm",
-        "norm_price": 28.33,
+        "norm_price": 23.33,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "28.33 / 1 kg",
+    "norm_price_display": "23.33 / 1 kg",
     "category": "Fresh Vegetables"
   },
   "green_peas_motorshuti__500_gm": {
     "id": "green_peas_motorshuti__500_gm",
     "name": "Green Peas (Motorshuti)",
     "image": "https://chaldn.com/_mpimage/green-peas-motorshuti-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69934&q=best&v=1&m=400&webp=1",
-    "current_price": 55.0,
+    "current_price": 59.0,
     "current_unit": "500 gm",
     "history": [
       {
@@ -1564,14 +1564,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 55.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 59.0,
         "unit": "500 gm",
-        "norm_price": 110.0,
+        "norm_price": 118.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "110.0 / 1 kg",
+    "norm_price_display": "118.0 / 1 kg",
     "category": "Fresh Vegetables"
   },
   "thankuni_pata_pennywort_leaves__1_bundle": {
@@ -1879,7 +1879,7 @@ window.PRODUCT_DATA = {
     "id": "uchche_local_bitter_gourd_25_gm_500_gm",
     "name": "Uchche (Local Bitter Gourd) \u00b1 25 gm",
     "image": "https://chaldn.com/_mpimage/uchche-local-bitter-gourd-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D15396&q=low&v=1&m=400&webp=1",
-    "current_price": 85.0,
+    "current_price": 79.0,
     "current_unit": "500 gm",
     "history": [
       {
@@ -1908,14 +1908,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 85.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 79.0,
         "unit": "500 gm",
-        "norm_price": 170.0,
+        "norm_price": 158.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "170.0 / 1 kg",
+    "norm_price_display": "158.0 / 1 kg",
     "category": "Fresh Vegetables"
   },
   "curry_cucumber_25_gm_500_gm": {
@@ -2207,7 +2207,7 @@ window.PRODUCT_DATA = {
     "id": "jali_kumra_water_pumpkin__each",
     "name": "Jali Kumra (Water Pumpkin)",
     "image": "https://chaldn.com/_mpimage/jali-kumra-water-pumpkin-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69932&q=low&v=1&m=400&webp=1",
-    "current_price": 69.0,
+    "current_price": 65.0,
     "current_unit": "each",
     "history": [
       {
@@ -2236,14 +2236,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 69.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 65.0,
         "unit": "each",
-        "norm_price": 69.0,
+        "norm_price": 65.0,
         "norm_unit": "each"
       }
     ],
-    "norm_price_display": "69.0 / each",
+    "norm_price_display": "65.0 / each",
     "category": "Fresh Vegetables"
   },
   "deshi_ada_local_ginger_25_gm_250_gm": {
@@ -2930,7 +2930,7 @@ window.PRODUCT_DATA = {
     "id": "beans_seed_sheemer_bichi__500_gm",
     "name": "Beans Seed (Sheemer Bichi)",
     "image": "https://chaldn.com/_mpimage/beans-seed-sheemer-bichi-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72242&q=best&v=1&m=400&webp=1",
-    "current_price": 65.0,
+    "current_price": 69.0,
     "current_unit": "500 gm",
     "history": [
       {
@@ -2959,14 +2959,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 65.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 69.0,
         "unit": "500 gm",
-        "norm_price": 130.0,
+        "norm_price": 138.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "130.0 / 1 kg",
+    "norm_price_display": "138.0 / 1 kg",
     "category": "Fresh Vegetables"
   },
   "badhakopi_pata_chinese_cabbage_leaves_150_gm__each": {
@@ -3043,7 +3043,7 @@ window.PRODUCT_DATA = {
     "id": "banana_flower_kolar_mocha__each",
     "name": "Banana Flower (Kolar Mocha)",
     "image": "https://chaldn.com/_mpimage/banana-flower-kolar-mocha-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D89272&q=best&v=1&m=400&m=400&webp=1",
-    "current_price": 55.0,
+    "current_price": 49.0,
     "current_unit": "each",
     "history": [
       {
@@ -3072,14 +3072,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 55.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 49.0,
         "unit": "each",
-        "norm_price": 55.0,
+        "norm_price": 49.0,
         "norm_unit": "each"
       }
     ],
-    "norm_price_display": "55.0 / each",
+    "norm_price_display": "49.0 / each",
     "category": "Fresh Vegetables"
   },
   "mehendi_pata_henna_leaves__3_bundles": {
@@ -3172,7 +3172,7 @@ window.PRODUCT_DATA = {
     "id": "yellow_capsicum_15_gm_300_gm",
     "name": "Yellow Capsicum \u00b115 gm",
     "image": "https://chaldn.com/_mpimage/yellow-capsicum-15-gm-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D16552&q=best&v=1&m=400&m=400&webp=1",
-    "current_price": 139.0,
+    "current_price": 149.0,
     "current_unit": "300 gm",
     "history": [
       {
@@ -3201,14 +3201,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T04:57:04.010287",
-        "price": 139.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 149.0,
         "unit": "300 gm",
-        "norm_price": 463.33,
+        "norm_price": 496.67,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "463.33 / 1 kg",
+    "norm_price_display": "496.67 / 1 kg",
     "category": "Fresh Vegetables"
   },
   "lomba_kochu_each": {
@@ -3623,7 +3623,7 @@ window.PRODUCT_DATA = {
     "id": "dheros_ladies_finger_25_gm_500_gm",
     "name": "Dheros (Ladies Finger) \u00b1 25 gm",
     "image": "https://chaldn.com/_mpimage/dheros-ladies-finger-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28563&q=low&v=1&m=400&m=400&webp=1",
-    "current_price": 85.0,
+    "current_price": 79.0,
     "current_unit": "500 gm",
     "history": [
       {
@@ -3652,14 +3652,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 85.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 79.0,
         "unit": "500 gm",
-        "norm_price": 170.0,
+        "norm_price": 158.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "170.0 / 1 kg",
+    "norm_price_display": "158.0 / 1 kg",
     "category": "Fresh Vegetables"
   },
   "deshi_peyaj_local_onion_25_gm_500_gm": {
@@ -3709,7 +3709,7 @@ window.PRODUCT_DATA = {
     "id": "kalo_begun_black_brinjals_50_gm_600_gm",
     "name": "Kalo Begun (Black Brinjals) \u00b150 gm",
     "image": "https://chaldn.com/_mpimage/kalo-begun-black-brinjals-50-gm-600-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D173723&q=best&v=1&m=400&webp=1",
-    "current_price": 69.0,
+    "current_price": 65.0,
     "current_unit": "600 gm",
     "history": [
       {
@@ -3738,14 +3738,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 69.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 65.0,
         "unit": "600 gm",
-        "norm_price": 115.0,
+        "norm_price": 108.33,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "115.0 / 1 kg",
+    "norm_price_display": "108.33 / 1 kg",
     "category": "Fresh Vegetables"
   },
   "lal_peyaj_onion_red_25_gm_500_gm": {
@@ -4228,7 +4228,7 @@ window.PRODUCT_DATA = {
     "id": "paka_pape_50_gm_1_kg",
     "name": "Paka Pape \u00b1 50 gm",
     "image": "https://chaldn.com/_mpimage/paka-pape-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131627&q=best&v=1&m=400&webp=1",
-    "current_price": 159.0,
+    "current_price": 179.0,
     "current_unit": "1 kg",
     "history": [
       {
@@ -4257,14 +4257,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 159.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 179.0,
         "unit": "1 kg",
-        "norm_price": 159.0,
+        "norm_price": 179.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "159.0 / 1 kg",
+    "norm_price_display": "179.0 / 1 kg",
     "category": "Ramadan"
   },
   "komola_orange_imported_50_gm_1_kg": {
@@ -4443,7 +4443,7 @@ window.PRODUCT_DATA = {
     "id": "dragon_fruit_local_50_gm__1_kg",
     "name": "Dragon Fruit Local (\u00b1 50 gm)",
     "image": "https://chaldn.com/_mpimage/dragon-fruit-local-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D93407&q=best&v=1&m=400&m=400&webp=1",
-    "current_price": 379.0,
+    "current_price": 399.0,
     "current_unit": "1 kg",
     "history": [
       {
@@ -4472,21 +4472,21 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 379.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 399.0,
         "unit": "1 kg",
-        "norm_price": 379.0,
+        "norm_price": 399.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "379.0 / 1 kg",
+    "norm_price_display": "399.0 / 1 kg",
     "category": "Fresh Fruits"
   },
   "gala_apple_50_gm_1_kg": {
     "id": "gala_apple_50_gm_1_kg",
     "name": "Gala Apple \u00b1 50 gm",
     "image": "https://chaldn.com/_mpimage/gala-apple-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D114751&q=best&v=1&m=400&webp=1",
-    "current_price": 399.0,
+    "current_price": 439.0,
     "current_unit": "1 kg",
     "history": [
       {
@@ -4515,14 +4515,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T04:57:04.010287",
-        "price": 399.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 439.0,
         "unit": "1 kg",
-        "norm_price": 399.0,
+        "norm_price": 439.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "399.0 / 1 kg",
+    "norm_price_display": "439.0 / 1 kg",
     "category": "Fresh Fruits"
   },
   "anaros_pineapple__each": {
@@ -4615,7 +4615,7 @@ window.PRODUCT_DATA = {
     "id": "sour_jujube_tok_boroi__500_gm",
     "name": "Sour Jujube (Tok Boroi)",
     "image": "https://chaldn.com/_mpimage/sour-jujube-tok-boroi-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53027&q=best&v=1&m=400&m=400&webp=1",
-    "current_price": 85.0,
+    "current_price": 79.0,
     "current_unit": "500 gm",
     "history": [
       {
@@ -4644,21 +4644,21 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 85.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 79.0,
         "unit": "500 gm",
-        "norm_price": 170.0,
+        "norm_price": 158.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "170.0 / 1 kg",
+    "norm_price_display": "158.0 / 1 kg",
     "category": "Fresh Fruits"
   },
   "ball_shundori_kul_boroi_500_gm": {
     "id": "ball_shundori_kul_boroi_500_gm",
     "name": "Ball Shundori Kul Boroi",
     "image": "https://chaldn.com/_mpimage/ball-shundori-kul-boroi-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53863&q=best&v=1&m=400&webp=1",
-    "current_price": 85.0,
+    "current_price": 79.0,
     "current_unit": "500 gm",
     "history": [
       {
@@ -4687,21 +4687,21 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 85.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 79.0,
         "unit": "500 gm",
-        "norm_price": 170.0,
+        "norm_price": 158.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "170.0 / 1 kg",
+    "norm_price_display": "158.0 / 1 kg",
     "category": "Fresh Fruits"
   },
   "watermelon_small_3_kg_tormuj__each": {
     "id": "watermelon_small_3_kg_tormuj__each",
     "name": "Watermelon Small 3 kg + (Tormuj)",
     "image": "https://chaldn.com/_mpimage/watermelon-small-3-kg-tormuj-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133254&q=best&v=1&m=400&m=400&webp=1",
-    "current_price": 299.0,
+    "current_price": 279.0,
     "current_unit": "each",
     "history": [
       {
@@ -4730,14 +4730,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 299.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 279.0,
         "unit": "each",
-        "norm_price": 299.0,
+        "norm_price": 279.0,
         "norm_unit": "each"
       }
     ],
-    "norm_price_display": "299.0 / each",
+    "norm_price_display": "279.0 / each",
     "category": "Ramadan"
   },
   "pomegranate_peeled_50_gm__300_gm": {
@@ -4787,7 +4787,7 @@ window.PRODUCT_DATA = {
     "id": "banana_sobri_4_pcs",
     "name": "Banana Sobri",
     "image": "https://chaldn.com/_mpimage/banana-sobri-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76878&q=low&v=1&m=400&webp=1",
-    "current_price": 45.0,
+    "current_price": 49.0,
     "current_unit": "4 pcs",
     "history": [
       {
@@ -4816,14 +4816,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 45.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 49.0,
         "unit": "4 pcs",
-        "norm_price": 11.25,
+        "norm_price": 12.25,
         "norm_unit": "1 pc"
       }
     ],
-    "norm_price_display": "11.25 / 1 pc",
+    "norm_price_display": "12.25 / 1 pc",
     "category": "Ramadan"
   },
   "amloki_amla_12_gm_250_gm": {
@@ -5115,7 +5115,7 @@ window.PRODUCT_DATA = {
     "id": "watermelon_large_5_kg_tormuj__each",
     "name": "Watermelon Large 5 kg + (Tormuj)",
     "image": "https://chaldn.com/_mpimage/watermelon-large-5-kg-tormuj-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77403&q=best&v=1&m=400&m=400&webp=1",
-    "current_price": 429.0,
+    "current_price": 419.0,
     "current_unit": "each",
     "history": [
       {
@@ -5144,21 +5144,21 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 429.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 419.0,
         "unit": "each",
-        "norm_price": 429.0,
+        "norm_price": 419.0,
         "norm_unit": "each"
       }
     ],
-    "norm_price_display": "429.0 / each",
+    "norm_price_display": "419.0 / each",
     "category": "Fresh Fruits"
   },
   "watermelon_medium_4_kg_tormuj__each": {
     "id": "watermelon_medium_4_kg_tormuj__each",
     "name": "Watermelon Medium 4 kg + (Tormuj)",
     "image": "https://chaldn.com/_mpimage/watermelon-medium-4-kg-tormuj-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D34711&q=best&v=1&m=400&m=400&webp=1",
-    "current_price": 389.0,
+    "current_price": 369.0,
     "current_unit": "each",
     "history": [
       {
@@ -5187,14 +5187,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 389.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 369.0,
         "unit": "each",
-        "norm_price": 389.0,
+        "norm_price": 369.0,
         "norm_unit": "each"
       }
     ],
-    "norm_price_display": "389.0 / each",
+    "norm_price_display": "369.0 / each",
     "category": "Ramadan"
   },
   "strawberry_500_gm": {
@@ -5718,7 +5718,7 @@ window.PRODUCT_DATA = {
     "name": "Mixed Dal",
     "image": "https://chaldn.com/_mpimage/mixed-dal-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D182355&q=best&v=1&m=400&webp=1",
     "category": "Ramadan",
-    "current_price": 79.0,
+    "current_price": 75.0,
     "current_unit": "500 gm",
     "history": [
       {
@@ -5747,14 +5747,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T04:57:04.010287",
-        "price": 79.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 75.0,
         "unit": "500 gm",
-        "norm_price": 158.0,
+        "norm_price": 150.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "158.0 / 1 kg"
+    "norm_price_display": "150.0 / 1 kg"
   },
   "kinley_drinking_water_2_ltr": {
     "id": "kinley_drinking_water_2_ltr",
@@ -6734,7 +6734,7 @@ window.PRODUCT_DATA = {
     "name": "Al Barakah Dabbas Dates",
     "image": "https://chaldn.com/_mpimage/al-barakah-dabbas-dates-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D186812&q=best&v=1&m=400&webp=1",
     "category": "Ramadan",
-    "current_price": 299.0,
+    "current_price": 289.0,
     "current_unit": "400 gm",
     "history": [
       {
@@ -6763,14 +6763,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T04:57:04.010287",
-        "price": 299.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 289.0,
         "unit": "400 gm",
-        "norm_price": 747.5,
+        "norm_price": 722.5,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "747.5 / 1 kg"
+    "norm_price_display": "722.5 / 1 kg"
   },
   "aarong_dairy_laban_500_ml": {
     "id": "aarong_dairy_laban_500_ml",
@@ -7336,7 +7336,7 @@ window.PRODUCT_DATA = {
     "name": "Moshur Dal (Deshi)",
     "image": "https://chaldn.com/_mpimage/moshur-dal-deshi-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D182384&q=best&v=1&m=400&webp=1",
     "category": "Ramadan",
-    "current_price": 165.0,
+    "current_price": 159.0,
     "current_unit": "1 kg",
     "history": [
       {
@@ -7365,14 +7365,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T04:57:04.010287",
-        "price": 165.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 159.0,
         "unit": "1 kg",
-        "norm_price": 165.0,
+        "norm_price": 159.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "165.0 / 1 kg"
+    "norm_price_display": "159.0 / 1 kg"
   },
   "chashi_aromatic_chinigura_rice_1_kg": {
     "id": "chashi_aromatic_chinigura_rice_1_kg",
@@ -7766,7 +7766,7 @@ window.PRODUCT_DATA = {
     "name": "Kalmi Dates (Khejur)",
     "image": "https://chaldn.com/_mpimage/kalmi-dates-khejur-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D184069&q=best&v=1&m=400&webp=1",
     "category": "Ramadan",
-    "current_price": 539.0,
+    "current_price": 549.0,
     "current_unit": "500 gm",
     "history": [
       {
@@ -7795,14 +7795,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 539.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 549.0,
         "unit": "500 gm",
-        "norm_price": 1078.0,
+        "norm_price": 1098.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "1078.0 / 1 kg"
+    "norm_price_display": "1098.0 / 1 kg"
   },
   "medjool_dates_khejur__500_gm": {
     "id": "medjool_dates_khejur__500_gm",
@@ -9099,7 +9099,7 @@ window.PRODUCT_DATA = {
     "name": "Cashew Nut (Kaju Badam)",
     "image": "https://chaldn.com/_mpimage/cashew-nut-kaju-badam-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D184612&q=best&v=1&m=400&webp=1",
     "category": "Ramadan",
-    "current_price": 179.0,
+    "current_price": 169.0,
     "current_unit": "100 gm",
     "history": [
       {
@@ -9128,21 +9128,21 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T04:57:04.010287",
-        "price": 179.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 169.0,
         "unit": "100 gm",
-        "norm_price": 1790.0,
+        "norm_price": 1690.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "1790.0 / 1 kg"
+    "norm_price_display": "1690.0 / 1 kg"
   },
   "cardamom_elachi_whole_50_gm": {
     "id": "cardamom_elachi_whole_50_gm",
     "name": "Cardamom (Elachi) Whole",
     "image": "https://chaldn.com/_mpimage/cardamom-elachi-whole-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D183666&q=best&v=1&m=400&webp=1",
     "category": "Ramadan",
-    "current_price": 299.0,
+    "current_price": 289.0,
     "current_unit": "50 gm",
     "history": [
       {
@@ -9171,14 +9171,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 299.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 289.0,
         "unit": "50 gm",
-        "norm_price": 5980.0,
+        "norm_price": 5780.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "5980.0 / 1 kg"
+    "norm_price_display": "5780.0 / 1 kg"
   },
   "ruchi_puffed_rice_muri__400_gm": {
     "id": "ruchi_puffed_rice_muri__400_gm",
@@ -11155,7 +11155,7 @@ window.PRODUCT_DATA = {
     "name": "Dettol Soap Neem with Pure Neem Oil Shower Bar",
     "image": "https://chaldn.com/_mpimage/dettol-soap-neem-with-pure-neem-oil-shower-bar-125-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D155743&q=best&v=1&m=400&webp=1",
     "category": "Flash Sales",
-    "current_price": 89.0,
+    "current_price": 95.0,
     "current_unit": "125 gm",
     "history": [
       {
@@ -11184,14 +11184,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T04:57:04.010287",
-        "price": 89.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 95.0,
         "unit": "125 gm",
-        "norm_price": 712.0,
+        "norm_price": 760.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "712.0 / 1 kg"
+    "norm_price_display": "760.0 / 1 kg"
   },
   "ermani_air_freshener_mountain_breeze__300_ml": {
     "id": "ermani_air_freshener_mountain_breeze__300_ml",
@@ -13418,7 +13418,7 @@ window.PRODUCT_DATA = {
     "name": "Harpic Drain Cleaning Xpert Powder 45 gm",
     "image": "https://chaldn.com/_mpimage/harpic-drain-cleaning-xpert-powder-45-gm-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D184286&q=best&v=1&m=400&webp=1",
     "category": "Flash Sales",
-    "current_price": 1109.0,
+    "current_price": 1200.0,
     "current_unit": "12 pcs",
     "history": [
       {
@@ -13444,9 +13444,17 @@ window.PRODUCT_DATA = {
         "unit": "12 pcs",
         "norm_price": 92.42,
         "norm_unit": "1 pc"
+      },
+      {
+        "date": "2026-02-18",
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 1200.0,
+        "unit": "12 pcs",
+        "norm_price": 100.0,
+        "norm_unit": "1 pc"
       }
     ],
-    "norm_price_display": "92.42 / 1 pc"
+    "norm_price_display": "100.0 / 1 pc"
   },
   "baby_soft_baby_wash_100_ml": {
     "id": "baby_soft_baby_wash_100_ml",
@@ -19412,6 +19420,14 @@ window.PRODUCT_DATA = {
       {
         "date": "2026-02-16",
         "timestamp": "2026-02-16T00:39:24.964772",
+        "price": 350.0,
+        "unit": "250 ml",
+        "norm_price": 1400.0,
+        "norm_unit": "1 L"
+      },
+      {
+        "date": "2026-02-18",
+        "timestamp": "2026-02-18T23:41:10.840770",
         "price": 350.0,
         "unit": "250 ml",
         "norm_price": 1400.0,
@@ -31550,7 +31566,7 @@ window.PRODUCT_DATA = {
     "name": "Dettol Handwash Skincare Liquid Pump",
     "image": "https://chaldn.com/_mpimage/dettol-handwash-skincare-liquid-pump-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D112103&q=best&v=1&m=400&webp=1",
     "category": "Liquid Handwash",
-    "current_price": 99.0,
+    "current_price": 110.0,
     "current_unit": "200 ml",
     "history": [
       {
@@ -31571,14 +31587,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T04:57:04.010287",
-        "price": 99.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 110.0,
         "unit": "200 ml",
-        "norm_price": 495.0,
+        "norm_price": 550.0,
         "norm_unit": "1 L"
       }
     ],
-    "norm_price_display": "495.0 / 1 L"
+    "norm_price_display": "550.0 / 1 L"
   },
   "aci_savlon_ocean_blue_antiseptic_handwash_refill_170_ml": {
     "id": "aci_savlon_ocean_blue_antiseptic_handwash_refill_170_ml",
@@ -32810,7 +32826,7 @@ window.PRODUCT_DATA = {
     "name": "Koral Fish After Cutting \u00b1 50 gm",
     "image": "https://chaldn.com/_mpimage/koral-fish-after-cutting-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175500&q=best&v=1&m=400&m=400&webp=1",
     "category": "Frozen Fish",
-    "current_price": 919.0,
+    "current_price": 929.0,
     "current_unit": "1 kg",
     "history": [
       {
@@ -32831,14 +32847,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 919.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 929.0,
         "unit": "1 kg",
-        "norm_price": 919.0,
+        "norm_price": 929.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "919.0 / 1 kg"
+    "norm_price_display": "929.0 / 1 kg"
   },
   "saffola_honey_500_gm": {
     "id": "saffola_honey_500_gm",
@@ -45518,7 +45534,7 @@ window.PRODUCT_DATA = {
     "name": "Sensodyne Fresh Gel",
     "image": "https://chaldn.com/_mpimage/sensodyne-fresh-gel-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D84097&q=best&v=1&m=400&webp=1",
     "category": "Toothpastes",
-    "current_price": 99.0,
+    "current_price": 110.0,
     "current_unit": "40 gm",
     "history": [
       {
@@ -45539,14 +45555,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T04:57:04.010287",
-        "price": 99.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 110.0,
         "unit": "40 gm",
-        "norm_price": 2475.0,
+        "norm_price": 2750.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "2475.0 / 1 kg"
+    "norm_price_display": "2750.0 / 1 kg"
   },
   "toothpick_4_pcs": {
     "id": "toothpick_4_pcs",
@@ -53476,7 +53492,7 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
+        "timestamp": "2026-02-18T23:41:10.840770",
         "price": 550.0,
         "unit": "100 ml",
         "norm_price": 5500.0,
@@ -87928,6 +87944,14 @@ window.PRODUCT_DATA = {
         "unit": "500 ml",
         "norm_price": 80.0,
         "norm_unit": "1 L"
+      },
+      {
+        "date": "2026-02-18",
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 40.0,
+        "unit": "500 ml",
+        "norm_price": 80.0,
+        "norm_unit": "1 L"
       }
     ],
     "norm_price_display": "80.0 / 1 L"
@@ -88748,6 +88772,14 @@ window.PRODUCT_DATA = {
       {
         "date": "2026-02-16",
         "timestamp": "2026-02-16T00:39:24.964772",
+        "price": 170.0,
+        "unit": "250 gm",
+        "norm_price": 680.0,
+        "norm_unit": "1 kg"
+      },
+      {
+        "date": "2026-02-18",
+        "timestamp": "2026-02-18T23:41:10.840770",
         "price": 170.0,
         "unit": "250 gm",
         "norm_price": 680.0,
@@ -109762,7 +109794,7 @@ window.PRODUCT_DATA = {
     "name": "Nestle Munch Breakfast Cereal Box",
     "image": "https://chaldn.com/_mpimage/nestle-munch-breakfast-cereal-box-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177802&q=best&v=1&m=400&webp=1",
     "category": "Cereals",
-    "current_price": 389.0,
+    "current_price": 400.0,
     "current_unit": "300 gm",
     "history": [
       {
@@ -109783,14 +109815,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T04:57:04.010287",
-        "price": 389.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 400.0,
         "unit": "300 gm",
-        "norm_price": 1296.67,
+        "norm_price": 1333.33,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "1296.67 / 1 kg"
+    "norm_price_display": "1333.33 / 1 kg"
   },
   "farmer_s_gold_white_flattened_rice_sada_chira__1_kg": {
     "id": "farmer_s_gold_white_flattened_rice_sada_chira__1_kg",
@@ -121156,7 +121188,7 @@ window.PRODUCT_DATA = {
     "name": "Radhuni Borhani Masala",
     "image": "https://chaldn.com/_mpimage/radhuni-borhani-masala-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132448&q=best&v=1&m=400&webp=1",
     "category": "Ready Mix",
-    "current_price": 38.0,
+    "current_price": 40.0,
     "current_unit": "50 gm",
     "history": [
       {
@@ -121177,14 +121209,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T04:57:04.010287",
-        "price": 38.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 40.0,
         "unit": "50 gm",
-        "norm_price": 760.0,
+        "norm_price": 800.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "760.0 / 1 kg"
+    "norm_price_display": "800.0 / 1 kg"
   },
   "teer_red_lentil_moshur_dal_1_kg": {
     "id": "teer_red_lentil_moshur_dal_1_kg",
@@ -121436,7 +121468,7 @@ window.PRODUCT_DATA = {
     "name": "Zirashail Rice (Boiled) \u00b1 50 gm",
     "image": "https://chaldn.com/_mpimage/zirashail-rice-boiled-50-gm-5-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D138415&q=best&v=1&m=400&webp=1",
     "category": "Rice",
-    "current_price": 349.0,
+    "current_price": 359.0,
     "current_unit": "5 kg",
     "history": [
       {
@@ -121457,14 +121489,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T04:57:04.010287",
-        "price": 349.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 359.0,
         "unit": "5 kg",
-        "norm_price": 69.8,
+        "norm_price": 71.8,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "69.8 / 1 kg"
+    "norm_price_display": "71.8 / 1 kg"
   },
   "pran_chinigura_aromatic_rice_2_kg": {
     "id": "pran_chinigura_aromatic_rice_2_kg",
@@ -121856,7 +121888,7 @@ window.PRODUCT_DATA = {
     "name": "Huski Rice (Half Boiled)",
     "image": "https://chaldn.com/_mpimage/huski-rice-half-boiled-5-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133719&q=best&v=1&m=400&webp=1",
     "category": "Rice",
-    "current_price": 329.0,
+    "current_price": 319.0,
     "current_unit": "5 kg",
     "history": [
       {
@@ -121877,14 +121909,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T04:57:04.010287",
-        "price": 329.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 319.0,
         "unit": "5 kg",
-        "norm_price": 65.8,
+        "norm_price": 63.8,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "65.8 / 1 kg"
+    "norm_price_display": "63.8 / 1 kg"
   },
   "aci_aroma_chinigura_rice_2_kg": {
     "id": "aci_aroma_chinigura_rice_2_kg",
@@ -123951,7 +123983,7 @@ window.PRODUCT_DATA = {
     "name": "Green Cardamom (Sobuj Elachi) Whole",
     "image": "https://chaldn.com/_mpimage/green-cardamom-sobuj-elachi-whole-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D184770&q=best&v=1&m=400&webp=1",
     "category": "Spices",
-    "current_price": 319.0,
+    "current_price": 299.0,
     "current_unit": "50 gm",
     "history": [
       {
@@ -123972,14 +124004,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 319.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 299.0,
         "unit": "50 gm",
-        "norm_price": 6380.0,
+        "norm_price": 5980.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "6380.0 / 1 kg"
+    "norm_price_display": "5980.0 / 1 kg"
   },
   "radhuni_coriander_dhonia_powder_50_gm": {
     "id": "radhuni_coriander_dhonia_powder_50_gm",
@@ -125264,6 +125296,14 @@ window.PRODUCT_DATA = {
         "unit": "200 gm",
         "norm_price": 850.0,
         "norm_unit": "1 kg"
+      },
+      {
+        "date": "2026-02-18",
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 170.0,
+        "unit": "200 gm",
+        "norm_price": 850.0,
+        "norm_unit": "1 kg"
       }
     ],
     "norm_price_display": "850.0 / 1 kg"
@@ -125322,6 +125362,14 @@ window.PRODUCT_DATA = {
       {
         "date": "2026-02-17",
         "timestamp": "2026-02-17T01:24:29.653448",
+        "price": 110.0,
+        "unit": "200 gm",
+        "norm_price": 550.0,
+        "norm_unit": "1 kg"
+      },
+      {
+        "date": "2026-02-18",
+        "timestamp": "2026-02-18T23:41:10.840770",
         "price": 110.0,
         "unit": "200 gm",
         "norm_price": 550.0,
@@ -125650,7 +125698,7 @@ window.PRODUCT_DATA = {
     "name": "Broiler Chicken Breast Boneless \u00b1 50 gm",
     "image": "https://chaldn.com/_mpimage/broiler-chicken-breast-boneless-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74660&q=best&v=1&m=400&webp=1",
     "category": "Chicken & Poultry",
-    "current_price": 589.0,
+    "current_price": 599.0,
     "current_unit": "1 kg",
     "history": [
       {
@@ -125671,21 +125719,21 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T04:57:04.010287",
-        "price": 589.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 599.0,
         "unit": "1 kg",
-        "norm_price": 589.0,
+        "norm_price": 599.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "589.0 / 1 kg"
+    "norm_price_display": "599.0 / 1 kg"
   },
   "broiler_chicken_breast_boneless_25_gm_500_gm": {
     "id": "broiler_chicken_breast_boneless_25_gm_500_gm",
     "name": "Broiler Chicken Breast Boneless \u00b1 25 gm",
     "image": "https://chaldn.com/_mpimage/broiler-chicken-breast-boneless-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167900&q=best&v=1&m=400&webp=1",
     "category": "Chicken & Poultry",
-    "current_price": 289.0,
+    "current_price": 299.0,
     "current_unit": "500 gm",
     "history": [
       {
@@ -125706,14 +125754,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 289.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 299.0,
         "unit": "500 gm",
-        "norm_price": 578.0,
+        "norm_price": 598.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "578.0 / 1 kg"
+    "norm_price_display": "598.0 / 1 kg"
   },
   "chicken_liver_kolija_25_gm_500_gm": {
     "id": "chicken_liver_kolija_25_gm_500_gm",
@@ -126035,7 +126083,7 @@ window.PRODUCT_DATA = {
     "name": "Beef Brain (Mogoz)",
     "image": "https://chaldn.com/_mpimage/beef-brain-mogoz-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D95196&q=best&v=1&m=400&webp=1",
     "category": "Meat",
-    "current_price": 449.0,
+    "current_price": 469.0,
     "current_unit": "each",
     "history": [
       {
@@ -126056,14 +126104,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T04:57:04.010287",
-        "price": 449.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 469.0,
         "unit": "each",
-        "norm_price": 449.0,
+        "norm_price": 469.0,
         "norm_unit": "each"
       }
     ],
-    "norm_price_display": "449.0 / each"
+    "norm_price_display": "469.0 / each"
   },
   "bengal_meat_beef_head_meat_1_kg": {
     "id": "bengal_meat_beef_head_meat_1_kg",
@@ -126140,7 +126188,7 @@ window.PRODUCT_DATA = {
     "name": "Quail Meat",
     "image": "https://chaldn.com/_mpimage/quail-meat-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74672&q=best&v=1&m=400&webp=1",
     "category": "Meat",
-    "current_price": 279.0,
+    "current_price": 259.0,
     "current_unit": "4 pcs",
     "history": [
       {
@@ -126161,14 +126209,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 279.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 259.0,
         "unit": "4 pcs",
-        "norm_price": 69.75,
+        "norm_price": 64.75,
         "norm_unit": "1 pc"
       }
     ],
-    "norm_price_display": "69.75 / 1 pc"
+    "norm_price_display": "64.75 / 1 pc"
   },
   "broiler_chicken_thigh_boneless_25_gm_500_gm": {
     "id": "broiler_chicken_thigh_boneless_25_gm_500_gm",
@@ -126245,7 +126293,7 @@ window.PRODUCT_DATA = {
     "name": "Whole Deshi Chicken Skin Off \u00b1 25 gm",
     "image": "https://chaldn.com/_mpimage/whole-deshi-chicken-skin-off-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D95363&q=best&v=1&m=400&webp=1",
     "category": "Meat",
-    "current_price": 579.0,
+    "current_price": 619.0,
     "current_unit": "500 gm",
     "history": [
       {
@@ -126266,14 +126314,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 579.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 619.0,
         "unit": "500 gm",
-        "norm_price": 1158.0,
+        "norm_price": 1238.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "1158.0 / 1 kg"
+    "norm_price_display": "1238.0 / 1 kg"
   },
   "broiler_chicken_breast_with_bone_25_gm_500_gm": {
     "id": "broiler_chicken_breast_with_bone_25_gm_500_gm",
@@ -126525,7 +126573,7 @@ window.PRODUCT_DATA = {
     "name": "Quail Meat",
     "image": "https://chaldn.com/_mpimage/quail-meat-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167895&q=best&v=1&m=400&m=400&webp=1",
     "category": "Meat",
-    "current_price": 149.0,
+    "current_price": 139.0,
     "current_unit": "2 pcs",
     "history": [
       {
@@ -126546,14 +126594,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 149.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 139.0,
         "unit": "2 pcs",
-        "norm_price": 74.5,
+        "norm_price": 69.5,
         "norm_unit": "1 pc"
       }
     ],
-    "norm_price_display": "74.5 / 1 pc"
+    "norm_price_display": "69.5 / 1 pc"
   },
   "mutton_head_meat_regular_net_weight_50_gm__1_kg": {
     "id": "mutton_head_meat_regular_net_weight_50_gm__1_kg",
@@ -127042,7 +127090,7 @@ window.PRODUCT_DATA = {
     "name": "Live Cock Chicken (Processed) \u00b1 25 gm",
     "image": "https://chaldn.com/_mpimage/live-cock-chicken-processed-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D165313&q=best&v=1&m=400&webp=1",
     "category": "Chicken & Poultry",
-    "current_price": 289.0,
+    "current_price": 299.0,
     "current_unit": "500 gm",
     "history": [
       {
@@ -127063,14 +127111,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T04:57:04.010287",
-        "price": 289.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 299.0,
         "unit": "500 gm",
-        "norm_price": 578.0,
+        "norm_price": 598.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "578.0 / 1 kg"
+    "norm_price_display": "598.0 / 1 kg"
   },
   "beef_tripe_vuri__1_kg": {
     "id": "beef_tripe_vuri__1_kg",
@@ -127252,7 +127300,7 @@ window.PRODUCT_DATA = {
     "name": "Pangas Fish After Cutting \u00b150 gm",
     "image": "https://chaldn.com/_mpimage/pangas-fish-after-cutting-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177010&q=best&v=1&m=400&webp=1",
     "category": "Frozen Fish",
-    "current_price": 289.0,
+    "current_price": 269.0,
     "current_unit": "1 kg",
     "history": [
       {
@@ -127273,14 +127321,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 289.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 269.0,
         "unit": "1 kg",
-        "norm_price": 289.0,
+        "norm_price": 269.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "289.0 / 1 kg"
+    "norm_price_display": "269.0 / 1 kg"
   },
   "kaski_fish_15_gm_250_gm": {
     "id": "kaski_fish_15_gm_250_gm",
@@ -127392,7 +127440,7 @@ window.PRODUCT_DATA = {
     "name": "Golda Chingri (Shrimp) 18-22 pcs \u00b130 gm",
     "image": "https://chaldn.com/_mpimage/golda-chingri-shrimp-18-22-pcs-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103451&q=best&v=1&m=400&m=400&webp=1",
     "category": "Frozen Fish",
-    "current_price": 569.0,
+    "current_price": 549.0,
     "current_unit": "500 gm",
     "history": [
       {
@@ -127413,14 +127461,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 569.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 549.0,
         "unit": "500 gm",
-        "norm_price": 1138.0,
+        "norm_price": 1098.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "1138.0 / 1 kg"
+    "norm_price_display": "1098.0 / 1 kg"
   },
   "mola_fish_deshi_15_gm_250_gm": {
     "id": "mola_fish_deshi_15_gm_250_gm",
@@ -127462,7 +127510,7 @@ window.PRODUCT_DATA = {
     "name": "Gura Chingri (Shrimp) \u00b115 gm",
     "image": "https://chaldn.com/_mpimage/gura-chingri-shrimp-15-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103458&q=best&v=1&m=400&webp=1",
     "category": "Frozen Fish",
-    "current_price": 219.0,
+    "current_price": 199.0,
     "current_unit": "250 gm",
     "history": [
       {
@@ -127483,14 +127531,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 219.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 199.0,
         "unit": "250 gm",
-        "norm_price": 876.0,
+        "norm_price": 796.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "876.0 / 1 kg"
+    "norm_price_display": "796.0 / 1 kg"
   },
   "telapiya_fish_processed_50_gm_1_kg": {
     "id": "telapiya_fish_processed_50_gm_1_kg",
@@ -127532,7 +127580,7 @@ window.PRODUCT_DATA = {
     "name": "Ayer Fish After Cutting \u00b130 gm",
     "image": "https://chaldn.com/_mpimage/ayer-fish-after-cutting-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175814&q=best&v=1&m=400&webp=1",
     "category": "Frozen Fish",
-    "current_price": 489.0,
+    "current_price": 479.0,
     "current_unit": "500 gm",
     "history": [
       {
@@ -127553,21 +127601,21 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 489.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 479.0,
         "unit": "500 gm",
-        "norm_price": 978.0,
+        "norm_price": 958.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "978.0 / 1 kg"
+    "norm_price_display": "958.0 / 1 kg"
   },
   "silver_carp_fish_after_cutting_50_gm_1_kg": {
     "id": "silver_carp_fish_after_cutting_50_gm_1_kg",
     "name": "Silver Carp Fish After Cutting \u00b150 gm",
     "image": "https://chaldn.com/_mpimage/silver-carp-fish-after-cutting-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126107&q=best&v=1&m=400&m=400&webp=1",
     "category": "Frozen Fish",
-    "current_price": 279.0,
+    "current_price": 269.0,
     "current_unit": "1 kg",
     "history": [
       {
@@ -127588,14 +127636,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 279.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 269.0,
         "unit": "1 kg",
-        "norm_price": 279.0,
+        "norm_price": 269.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "279.0 / 1 kg"
+    "norm_price_display": "269.0 / 1 kg"
   },
   "catla_fish_after_cutting_70_gm_1_5_kg": {
     "id": "catla_fish_after_cutting_70_gm_1_5_kg",
@@ -127707,7 +127755,7 @@ window.PRODUCT_DATA = {
     "name": "Deshi Sarputi Fish \u00b130 gm",
     "image": "https://chaldn.com/_mpimage/deshi-sarputi-fish-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103467&q=best&v=1&m=400&webp=1",
     "category": "Frozen Fish",
-    "current_price": 259.0,
+    "current_price": 179.0,
     "current_unit": "500 gm",
     "history": [
       {
@@ -127728,14 +127776,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T04:57:04.010287",
-        "price": 259.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 179.0,
         "unit": "500 gm",
-        "norm_price": 518.0,
+        "norm_price": 358.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "518.0 / 1 kg"
+    "norm_price_display": "358.0 / 1 kg"
   },
   "pqs_chapila_fish_processed_250_gm": {
     "id": "pqs_chapila_fish_processed_250_gm",
@@ -127777,7 +127825,7 @@ window.PRODUCT_DATA = {
     "name": "Magur Fish Processed \u00b130 gm",
     "image": "https://chaldn.com/_mpimage/magur-fish-processed-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175812&q=best&v=1&m=400&webp=1",
     "category": "Frozen Fish",
-    "current_price": 379.0,
+    "current_price": 399.0,
     "current_unit": "500 gm",
     "history": [
       {
@@ -127798,21 +127846,21 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 379.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 399.0,
         "unit": "500 gm",
-        "norm_price": 758.0,
+        "norm_price": 798.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "758.0 / 1 kg"
+    "norm_price_display": "798.0 / 1 kg"
   },
   "puti_fish_15_gm_250_gm": {
     "id": "puti_fish_15_gm_250_gm",
     "name": "Puti Fish \u00b115 gm",
     "image": "https://chaldn.com/_mpimage/puti-fish-15-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103471&q=best&v=1&m=400&webp=1",
     "category": "Frozen Fish",
-    "current_price": 149.0,
+    "current_price": 129.0,
     "current_unit": "250 gm",
     "history": [
       {
@@ -127833,21 +127881,21 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 149.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 129.0,
         "unit": "250 gm",
-        "norm_price": 596.0,
+        "norm_price": 516.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "596.0 / 1 kg"
+    "norm_price_display": "516.0 / 1 kg"
   },
   "tatkini_fish_30_gm_500_gm": {
     "id": "tatkini_fish_30_gm_500_gm",
     "name": "Tatkini Fish \u00b130 gm",
     "image": "https://chaldn.com/_mpimage/tatkini-fish-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103463&q=best&v=1&m=400&webp=1",
     "category": "Frozen Fish",
-    "current_price": 259.0,
+    "current_price": 149.0,
     "current_unit": "500 gm",
     "history": [
       {
@@ -127868,21 +127916,21 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T04:57:04.010287",
-        "price": 259.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 149.0,
         "unit": "500 gm",
-        "norm_price": 518.0,
+        "norm_price": 298.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "518.0 / 1 kg"
+    "norm_price_display": "298.0 / 1 kg"
   },
   "rupchanda_fish_medium_30_gm_500_gm": {
     "id": "rupchanda_fish_medium_30_gm_500_gm",
     "name": "Rupchanda Fish Medium \u00b130 gm",
     "image": "https://chaldn.com/_mpimage/rupchanda-fish-medium-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D116868&q=best&v=1&m=400&webp=1",
     "category": "Frozen Fish",
-    "current_price": 699.0,
+    "current_price": 689.0,
     "current_unit": "500 gm",
     "history": [
       {
@@ -127903,14 +127951,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 699.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 689.0,
         "unit": "500 gm",
-        "norm_price": 1398.0,
+        "norm_price": 1378.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "1398.0 / 1 kg"
+    "norm_price_display": "1378.0 / 1 kg"
   },
   "shol_fish_processed_50_gm_1_kg": {
     "id": "shol_fish_processed_50_gm_1_kg",
@@ -128757,7 +128805,7 @@ window.PRODUCT_DATA = {
     "name": "Gulsha Fish Medium \u00b130 gm",
     "image": "https://chaldn.com/_mpimage/gulsha-fish-medium-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103532&q=best&v=1&m=400&webp=1",
     "category": "Frozen Fish",
-    "current_price": 389.0,
+    "current_price": 379.0,
     "current_unit": "500 gm",
     "history": [
       {
@@ -128778,21 +128826,21 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T04:57:04.010287",
-        "price": 389.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 379.0,
         "unit": "500 gm",
-        "norm_price": 778.0,
+        "norm_price": 758.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "778.0 / 1 kg"
+    "norm_price_display": "758.0 / 1 kg"
   },
   "carfu_fish_after_cutting_50_gm_1_kg": {
     "id": "carfu_fish_after_cutting_50_gm_1_kg",
     "name": "Carfu Fish After Cutting \u00b150 gm",
     "image": "https://chaldn.com/_mpimage/carfu-fish-after-cutting-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175611&q=best&v=1&m=400&webp=1",
     "category": "Frozen Fish",
-    "current_price": 459.0,
+    "current_price": 439.0,
     "current_unit": "1 kg",
     "history": [
       {
@@ -128813,21 +128861,21 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 459.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 439.0,
         "unit": "1 kg",
-        "norm_price": 459.0,
+        "norm_price": 439.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "459.0 / 1 kg"
+    "norm_price_display": "439.0 / 1 kg"
   },
   "boal_fish_after_cutting_50_gm_1_kg": {
     "id": "boal_fish_after_cutting_50_gm_1_kg",
     "name": "Boal Fish After Cutting \u00b150 gm",
     "image": "https://chaldn.com/_mpimage/boal-fish-after-cutting-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103527&q=best&v=1&m=400&webp=1",
     "category": "Frozen Fish",
-    "current_price": 799.0,
+    "current_price": 819.0,
     "current_unit": "1 kg",
     "history": [
       {
@@ -128848,14 +128896,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 799.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 819.0,
         "unit": "1 kg",
-        "norm_price": 799.0,
+        "norm_price": 819.0,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "799.0 / 1 kg"
+    "norm_price_display": "819.0 / 1 kg"
   },
   "baila_fish_medium_30_gm_500_gm": {
     "id": "baila_fish_medium_30_gm_500_gm",
@@ -129277,7 +129325,7 @@ window.PRODUCT_DATA = {
     "name": "Broiler Chicken Skin Off \u00b1 50 gm",
     "image": "https://chaldn.com/_mpimage/broiler-chicken-skin-off-50-gm-14-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D163162&q=best&v=1&m=400&webp=1",
     "category": "Chicken & Poultry",
-    "current_price": 469.0,
+    "current_price": 459.0,
     "current_unit": "1.4 kg",
     "history": [
       {
@@ -129298,14 +129346,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 469.0,
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 459.0,
         "unit": "1.4 kg",
-        "norm_price": 335.0,
+        "norm_price": 327.86,
         "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "335.0 / 1 kg"
+    "norm_price_display": "327.86 / 1 kg"
   },
   "broiler_chicken_skin_on_50_gm_1_4_kg": {
     "id": "broiler_chicken_skin_on_50_gm_1_4_kg",
@@ -130454,31 +130502,12 @@ window.PRODUCT_DATA = {
     "name": "Ajwa Premium Dates",
     "image": "https://chaldn.com/_mpimage/ajwa-premium-dates-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D172695&q=best&v=1&m=400&webp=1",
     "category": "Ramadan",
-    "current_price": 699.0,
-    "current_unit": "500 gm",
-    "history": [
-      {
-        "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
-        "price": 699.0,
-        "unit": "500 gm",
-        "norm_price": 1398.0,
-        "norm_unit": "1 kg"
-      }
-    ],
-    "norm_price_display": "1398.0 / 1 kg"
-  },
-  "maryam_premium_dates_500_gm": {
-    "id": "maryam_premium_dates_500_gm",
-    "name": "Maryam Premium Dates",
-    "image": "https://chaldn.com/_mpimage/maryam-premium-dates-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D172698&q=best&v=1&m=400&webp=1",
-    "category": "Ramadan",
     "current_price": 649.0,
     "current_unit": "500 gm",
     "history": [
       {
         "date": "2026-02-18",
-        "timestamp": "2026-02-18T12:18:45.354167",
+        "timestamp": "2026-02-18T23:41:10.840770",
         "price": 649.0,
         "unit": "500 gm",
         "norm_price": 1298.0,
@@ -130486,6 +130515,25 @@ window.PRODUCT_DATA = {
       }
     ],
     "norm_price_display": "1298.0 / 1 kg"
+  },
+  "maryam_premium_dates_500_gm": {
+    "id": "maryam_premium_dates_500_gm",
+    "name": "Maryam Premium Dates",
+    "image": "https://chaldn.com/_mpimage/maryam-premium-dates-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D172698&q=best&v=1&m=400&webp=1",
+    "category": "Ramadan",
+    "current_price": 619.0,
+    "current_unit": "500 gm",
+    "history": [
+      {
+        "date": "2026-02-18",
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 619.0,
+        "unit": "500 gm",
+        "norm_price": 1238.0,
+        "norm_unit": "1 kg"
+      }
+    ],
+    "norm_price_display": "1238.0 / 1 kg"
   },
   "kochur_loti_stolon_of_taro_processed_25_gm_400_gm": {
     "id": "kochur_loti_stolon_of_taro_processed_25_gm_400_gm",
@@ -130505,5 +130553,309 @@ window.PRODUCT_DATA = {
       }
     ],
     "norm_price_display": "287.5 / 1 kg"
+  },
+  "sensodyne_toothbrush_family_pack_buy_2_get_1_free__3_pcs": {
+    "id": "sensodyne_toothbrush_family_pack_buy_2_get_1_free__3_pcs",
+    "name": "Sensodyne Toothbrush Family Pack (Buy 2 Get 1 Free)",
+    "image": "https://chaldn.com/_mpimage/sensodyne-toothbrush-family-pack-buy-2-get-1-free-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D182956&q=best&v=1&m=400&webp=1",
+    "category": "Flash Sales",
+    "current_price": 215.0,
+    "current_unit": "3 pcs",
+    "history": [
+      {
+        "date": "2026-02-18",
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 215.0,
+        "unit": "3 pcs",
+        "norm_price": 71.67,
+        "norm_unit": "1 pc"
+      }
+    ],
+    "norm_price_display": "71.67 / 1 pc"
+  },
+  "godrej_expert_shampoo_black_hair_color_bowl_free__": {
+    "id": "godrej_expert_shampoo_black_hair_color_bowl_free__",
+    "name": "Godrej Expert Shampoo Black Hair Color (Bowl Free)",
+    "image": "https://chaldn.com/_mpimage/godrej-expert-shampoo-black-hair-color-bowl-free?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70389&q=low&v=1&m=400&m=400&webp=1",
+    "category": "Men's Hair Care",
+    "current_price": 50.0,
+    "current_unit": "",
+    "history": [
+      {
+        "date": "2026-02-18",
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 50.0,
+        "unit": "",
+        "norm_price": 50.0,
+        "norm_unit": ""
+      }
+    ],
+    "norm_price_display": "50.0 / "
+  },
+  "clean_clear_foaming_face_wash_50_ml": {
+    "id": "clean_clear_foaming_face_wash_50_ml",
+    "name": "Clean & Clear Foaming Face Wash",
+    "image": "https://chaldn.com/_mpimage/clean-clear-foaming-face-wash-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126881&q=best&v=1&m=400&webp=1",
+    "category": "Face Wash & Scrub",
+    "current_price": 150.0,
+    "current_unit": "50 ml",
+    "history": [
+      {
+        "date": "2026-02-18",
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 150.0,
+        "unit": "50 ml",
+        "norm_price": 3000.0,
+        "norm_unit": "1 L"
+      }
+    ],
+    "norm_price_display": "3000.0 / 1 L"
+  },
+  "fujimoto_long_nose_pliers_each": {
+    "id": "fujimoto_long_nose_pliers_each",
+    "name": "Fujimoto Long Nose Pliers",
+    "image": "https://chaldn.com/_mpimage/fujimoto-long-nose-pliers-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D113321&q=best&v=1&m=400&webp=1",
+    "category": "Flash Sales",
+    "current_price": 149.0,
+    "current_unit": "each",
+    "history": [
+      {
+        "date": "2026-02-18",
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 149.0,
+        "unit": "each",
+        "norm_price": 149.0,
+        "norm_unit": "each"
+      }
+    ],
+    "norm_price_display": "149.0 / each"
+  },
+  "shankar_umbrella_black_colour_12_spoke__each": {
+    "id": "shankar_umbrella_black_colour_12_spoke__each",
+    "name": "Shankar Umbrella Black Colour (12 Spoke)",
+    "image": "https://chaldn.com/_mpimage/shankar-umbrella-black-colour-12-spoke-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D178860&q=best&v=1&m=400&webp=1",
+    "category": "Flash Sales",
+    "current_price": 429.0,
+    "current_unit": "each",
+    "history": [
+      {
+        "date": "2026-02-18",
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 429.0,
+        "unit": "each",
+        "norm_price": 429.0,
+        "norm_unit": "each"
+      }
+    ],
+    "norm_price_display": "429.0 / each"
+  },
+  "npoly_food_cover_medium_blue_25_cm_each": {
+    "id": "npoly_food_cover_medium_blue_25_cm_each",
+    "name": "Npoly Food Cover Medium (Blue) 25 cm",
+    "image": "https://chaldn.com/_mpimage/npoly-food-cover-medium-blue-25-cm-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D115212&q=best&v=1&m=400&webp=1",
+    "category": "Kitchen Accessories",
+    "current_price": 40.0,
+    "current_unit": "each",
+    "history": [
+      {
+        "date": "2026-02-18",
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 40.0,
+        "unit": "each",
+        "norm_price": 40.0,
+        "norm_unit": "each"
+      }
+    ],
+    "norm_price_display": "40.0 / each"
+  },
+  "fresh_up_500_ml": {
+    "id": "fresh_up_500_ml",
+    "name": "Fresh Up",
+    "image": "https://chaldn.com/_mpimage/fresh-up-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D163178&q=best&v=1&m=400&webp=1",
+    "category": "Flash Sales",
+    "current_price": 33.0,
+    "current_unit": "500 ml",
+    "history": [
+      {
+        "date": "2026-02-18",
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 33.0,
+        "unit": "500 ml",
+        "norm_price": 66.0,
+        "norm_unit": "1 L"
+      }
+    ],
+    "norm_price_display": "66.0 / 1 L"
+  },
+  "dilmah_darjeeling_tea_50_gm_25_pcs": {
+    "id": "dilmah_darjeeling_tea_50_gm_25_pcs",
+    "name": "Dilmah Darjeeling Tea 50 gm",
+    "image": "https://chaldn.com/_mpimage/dilmah-darjeeling-tea-50-gm-25-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D180128&q=best&v=1&m=400&webp=1",
+    "category": "Tea & Coffee",
+    "current_price": 790.0,
+    "current_unit": "25 pcs",
+    "history": [
+      {
+        "date": "2026-02-18",
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 790.0,
+        "unit": "25 pcs",
+        "norm_price": 31.6,
+        "norm_unit": "1 pc"
+      }
+    ],
+    "norm_price_display": "31.6 / 1 pc"
+  },
+  "tetley_tea_bags_100_gm_50_pcs": {
+    "id": "tetley_tea_bags_100_gm_50_pcs",
+    "name": "Tetley Tea Bags 100 gm",
+    "image": "https://chaldn.com/_mpimage/tetley-tea-bags-100-gm-50-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D161033&q=best&v=1&m=400&webp=1",
+    "category": "Tea & Coffee",
+    "current_price": 90.0,
+    "current_unit": "50 pcs",
+    "history": [
+      {
+        "date": "2026-02-18",
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 90.0,
+        "unit": "50 pcs",
+        "norm_price": 1.8,
+        "norm_unit": "1 pc"
+      }
+    ],
+    "norm_price_display": "1.8 / 1 pc"
+  },
+  "sedaap_supreme_instant_korean_spicy_chicken_noodles_each": {
+    "id": "sedaap_supreme_instant_korean_spicy_chicken_noodles_each",
+    "name": "Sedaap Supreme Instant Korean Spicy Chicken Noodles",
+    "image": "https://chaldn.com/_mpimage/sedaap-supreme-instant-korean-spicy-chicken-noodles-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D183191&q=best&v=1&m=400&webp=1",
+    "category": "Noodles",
+    "current_price": 80.0,
+    "current_unit": "each",
+    "history": [
+      {
+        "date": "2026-02-18",
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 80.0,
+        "unit": "each",
+        "norm_price": 80.0,
+        "norm_unit": "each"
+      }
+    ],
+    "norm_price_display": "80.0 / each"
+  },
+  "fresh_stick_noodles_egg_masala_120_gm": {
+    "id": "fresh_stick_noodles_egg_masala_120_gm",
+    "name": "Fresh Stick Noodles Egg Masala",
+    "image": "https://chaldn.com/_mpimage/fresh-stick-noodles-egg-masala-120-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128652&q=best&v=1&m=400&webp=1",
+    "category": "Noodles",
+    "current_price": 20.0,
+    "current_unit": "120 gm",
+    "history": [
+      {
+        "date": "2026-02-18",
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 20.0,
+        "unit": "120 gm",
+        "norm_price": 166.67,
+        "norm_unit": "1 kg"
+      }
+    ],
+    "norm_price_display": "166.67 / 1 kg"
+  },
+  "ruchi_mixed_chutney_450_gm": {
+    "id": "ruchi_mixed_chutney_450_gm",
+    "name": "Ruchi Mixed Chutney",
+    "image": "https://chaldn.com/_mpimage/ruchi-mixed-chutney-450-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133076&q=best&v=1&m=400&webp=1",
+    "category": "Flash Sales",
+    "current_price": 160.0,
+    "current_unit": "450 gm",
+    "history": [
+      {
+        "date": "2026-02-18",
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 160.0,
+        "unit": "450 gm",
+        "norm_price": 355.56,
+        "norm_unit": "1 kg"
+      }
+    ],
+    "norm_price_display": "355.56 / 1 kg"
+  },
+  "ruchi_mixed_pickle_400_gm": {
+    "id": "ruchi_mixed_pickle_400_gm",
+    "name": "Ruchi Mixed Pickle",
+    "image": "https://chaldn.com/_mpimage/ruchi-mixed-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48272&q=best&v=1&m=400&webp=1",
+    "category": "Pickles",
+    "current_price": 200.0,
+    "current_unit": "400 gm",
+    "history": [
+      {
+        "date": "2026-02-18",
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 200.0,
+        "unit": "400 gm",
+        "norm_price": 500.0,
+        "norm_unit": "1 kg"
+      }
+    ],
+    "norm_price_display": "500.0 / 1 kg"
+  },
+  "ahmed_roast_masala_35_gm": {
+    "id": "ahmed_roast_masala_35_gm",
+    "name": "Ahmed Roast Masala",
+    "image": "https://chaldn.com/_mpimage/ahmed-roast-masala-35-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108171&q=best&v=1&m=400&webp=1",
+    "category": "Flash Sales",
+    "current_price": 59.0,
+    "current_unit": "35 gm",
+    "history": [
+      {
+        "date": "2026-02-18",
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 59.0,
+        "unit": "35 gm",
+        "norm_price": 1685.71,
+        "norm_unit": "1 kg"
+      }
+    ],
+    "norm_price_display": "1685.71 / 1 kg"
+  },
+  "potato_regular_50_gm_combo__5_kg": {
+    "id": "potato_regular_50_gm_combo__5_kg",
+    "name": "Potato Regular (\u00b1 50 gm) (Combo)",
+    "image": "https://chaldn.com/_mpimage/potato-regular-50-gm-combo-5-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D164094&q=best&v=1&m=400&webp=1",
+    "category": "Ramadan",
+    "current_price": 90.0,
+    "current_unit": "5 kg",
+    "history": [
+      {
+        "date": "2026-02-18",
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 90.0,
+        "unit": "5 kg",
+        "norm_price": 18.0,
+        "norm_unit": "1 kg"
+      }
+    ],
+    "norm_price_display": "18.0 / 1 kg"
+  },
+  "angelina_hyaluronic_booster_60_ml": {
+    "id": "angelina_hyaluronic_booster_60_ml",
+    "name": "Angelina Hyaluronic Booster",
+    "image": "https://chaldn.com/_mpimage/angelina-hyaluronic-booster-60-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174552&q=best&v=1&m=400&webp=1",
+    "category": "Flash Sales",
+    "current_price": 149.0,
+    "current_unit": "60 ml",
+    "history": [
+      {
+        "date": "2026-02-18",
+        "timestamp": "2026-02-18T23:41:10.840770",
+        "price": 149.0,
+        "unit": "60 ml",
+        "norm_price": 2483.33,
+        "norm_unit": "1 L"
+      }
+    ],
+    "norm_price_display": "2483.33 / 1 L"
   }
 };
