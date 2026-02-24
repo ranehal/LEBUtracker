@@ -5,7 +5,7 @@ let pinnedCategories = new Set(JSON.parse(localStorage.getItem('pinnedCategories
 let activeViewCategories = new Set(JSON.parse(localStorage.getItem('activeViewCategories') || '[]'));
 let selectedForCompare = new Set();
 let isCompareMode = false;
-let currentProductViewLimit = 40;
+let currentProductViewLimit = 100;
 let chartInstance = null;
 
 // Date Range Analysis State
