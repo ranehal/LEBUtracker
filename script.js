@@ -372,6 +372,15 @@ function renderProducts() {
         const isFav = favorites.has(p.id);
         const isSelected = selectedForCompare.has(p.id);
 
+        let priceClass = '';
+        const history = p.history || [];
+        if (history.length > 1) {
+            const curr = history[history.length - 1].price;
+            const prev = history[history.length - 2].price;
+            if (curr < prev) priceClass = 'price-down';
+            else if (curr > prev) priceClass = 'price-up';
+        }
+
         card.innerHTML = `
             ${badge}
             <div class="product-img">
@@ -385,7 +394,7 @@ function renderProducts() {
             </div>
             <div class="product-name" title="${p.name}">${p.name}</div>
             <div class="price-row">
-                <span class="price-val">${Math.round(std.price)}</span>
+                <span class="price-val ${priceClass}">${Math.round(std.price)}</span>
                 <span class="price-unit">${std.unit}</span>
             </div>
             <button class="icon-btn fav-btn ${isFav ? 'active' : ''}" style="position:absolute; bottom:12px; right:12px; width:34px; height:34px; border:none; background:transparent;">

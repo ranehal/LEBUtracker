@@ -203,6 +203,8 @@ body {
 
 .price-row { display: flex; align-items: baseline; gap: 4px; }
 .price-val { font-size: 1.1rem; font-weight: 800; color: var(--accent); font-family: var(--font-mono); }
+.price-val.price-up { color: var(--magenta); text-shadow: 0 0 8px var(--magenta-glow); }
+.price-val.price-down { color: var(--lime); text-shadow: 0 0 8px rgba(52, 199, 89, 0.4); }
 .price-unit { font-size: 0.65rem; color: var(--text-muted); font-weight: 600; }
 
 /* Actual Price Hover View */
@@ -218,9 +220,15 @@ body {
 .hover-price { font-size: 0.9rem; font-weight: 800; color: var(--magenta); }
 
 /* Badges */
-.badge { position: absolute; top: 8px; right: 8px; padding: 3px 6px; border-radius: 6px; font-size: 0.6rem; font-weight: 800; font-family: var(--font-mono); z-index: 10; }
-.badge.down { background: rgba(52, 199, 89, 0.2); color: #34c759; border: 1px solid rgba(52, 199, 89, 0.3); }
-.badge.up { background: rgba(255, 45, 85, 0.2); color: #ff2d55; border: 1px solid rgba(255, 45, 85, 0.3); }
+.badge { 
+    position: absolute; top: 6px; right: 6px; 
+    padding: 4px 8px; border-radius: 8px; 
+    font-size: 0.65rem; font-weight: 900; 
+    font-family: var(--font-mono); z-index: 10; 
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+.badge.down { background: var(--lime); color: white; border: none; }
+.badge.up { background: var(--magenta); color: white; border: none; }
 
 /* --- Modals --- */
 .modal { position: fixed; inset: 0; display: flex; align-items: center; justify-content: center; z-index: 2000; animation: modalIn 0.3s ease; }
