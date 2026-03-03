@@ -43428,7 +43428,7 @@ window.PRODUCT_DATA = {
     "id": "mazzak_badam_almond_roasted_light_salt_150_gm",
     "name": "Mazzak Badam Almond Roasted & Light Salt",
     "image": "https://chaldn.com/_mpimage/mazzak-badam-almond-roasted-light-salt-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185958&q=best&v=1&m=400&m=400&webp=1",
-    "category": "Nuts & Dried Fruits",
+    "category": "New Arrival",
     "current_price": 670.0,
     "current_unit": "150 gm",
     "history": [
@@ -43567,7 +43567,7 @@ window.PRODUCT_DATA = {
     "id": "mazzak_badam_premium_cashews_roasted_with_salt_lemon_mint__150_gm",
     "name": "Mazzak Badam Premium Cashews Roasted with Salt (Lemon Mint)",
     "image": "https://chaldn.com/_mpimage/mazzak-badam-premium-cashews-roasted-with-salt-lemon-mint-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185999&q=best&v=1&m=400&m=400&webp=1",
-    "category": "Nuts & Dried Fruits",
+    "category": "New Arrival",
     "current_price": 580.0,
     "current_unit": "150 gm",
     "history": [
@@ -43706,7 +43706,7 @@ window.PRODUCT_DATA = {
     "id": "mazzak_badam_premium_cashews_roasted_with_salt_tomato_blast__150_gm",
     "name": "Mazzak Badam Premium Cashews Roasted with Salt (Tomato Blast)",
     "image": "https://chaldn.com/_mpimage/mazzak-badam-premium-cashews-roasted-with-salt-tomato-blast-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185998&q=best&v=1&m=400&m=400&webp=1",
-    "category": "Nuts & Dried Fruits",
+    "category": "New Arrival",
     "current_price": 580.0,
     "current_unit": "150 gm",
     "history": [
@@ -43845,7 +43845,7 @@ window.PRODUCT_DATA = {
     "id": "mazzak_badam_premium_cashews_roasted_with_salt_150_gm",
     "name": "Mazzak Badam Premium Cashews Roasted with Salt",
     "image": "https://chaldn.com/_mpimage/mazzak-badam-premium-cashews-roasted-with-salt-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185996&q=best&v=1&m=400&m=400&webp=1",
-    "category": "Nuts & Dried Fruits",
+    "category": "New Arrival",
     "current_price": 560.0,
     "current_unit": "150 gm",
     "history": [
@@ -43984,7 +43984,7 @@ window.PRODUCT_DATA = {
     "id": "mazzak_badam_premium_cashews_150_gm",
     "name": "Mazzak Badam Premium Cashews",
     "image": "https://chaldn.com/_mpimage/mazzak-badam-premium-cashews-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185995&q=best&v=1&m=400&m=400&webp=1",
-    "category": "Nuts & Dried Fruits",
+    "category": "New Arrival",
     "current_price": 560.0,
     "current_unit": "150 gm",
     "history": [
@@ -44123,7 +44123,7 @@ window.PRODUCT_DATA = {
     "id": "mazzak_badam_almond_roasted_light_salt_40_gm",
     "name": "Mazzak Badam Almond Roasted & Light Salt",
     "image": "https://chaldn.com/_mpimage/mazzak-badam-almond-roasted-light-salt-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185967&q=best&v=1&m=400&webp=1",
-    "category": "Nuts & Dried Fruits",
+    "category": "New Arrival",
     "current_price": 170.0,
     "current_unit": "40 gm",
     "history": [
@@ -44262,7 +44262,7 @@ window.PRODUCT_DATA = {
     "id": "mazzak_badam_pistachio_roasted_light_salt_150_gm",
     "name": "Mazzak Badam Pistachio Roasted & Light Salt",
     "image": "https://chaldn.com/_mpimage/mazzak-badam-pistachio-roasted-light-salt-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185966&q=best&v=1&m=400&m=400&webp=1",
-    "category": "Nuts & Dried Fruits",
+    "category": "New Arrival",
     "current_price": 700.0,
     "current_unit": "150 gm",
     "history": [
@@ -44393,7 +44393,7 @@ window.PRODUCT_DATA = {
     "id": "mazzak_badam_cashews_roasted_salt_40_gm",
     "name": "Mazzak Badam Cashews Roasted & Salt",
     "image": "https://chaldn.com/_mpimage/mazzak-badam-cashews-roasted-salt-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185965&q=best&v=1&m=400&webp=1",
-    "category": "Nuts & Dried Fruits",
+    "category": "New Arrival",
     "current_price": 165.0,
     "current_unit": "40 gm",
     "history": [
@@ -44532,7 +44532,7 @@ window.PRODUCT_DATA = {
     "id": "mazzak_badam_pistachio_roasted_light_salt_40_gm",
     "name": "Mazzak Badam Pistachio Roasted & Light Salt",
     "image": "https://chaldn.com/_mpimage/mazzak-badam-pistachio-roasted-light-salt-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185963&q=best&v=1&m=400&m=400&webp=1",
-    "category": "Nuts & Dried Fruits",
+    "category": "New Arrival",
     "current_price": 199.0,
     "current_unit": "40 gm",
     "history": [
@@ -44671,7 +44671,7 @@ window.PRODUCT_DATA = {
     "id": "mazzak_badam_cashews_roasted_light_salt_150_gm",
     "name": "Mazzak Badam Cashews Roasted & Light Salt",
     "image": "https://chaldn.com/_mpimage/mazzak-badam-cashews-roasted-light-salt-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185960&q=best&v=1&m=400&m=400&webp=1",
-    "category": "Nuts & Dried Fruits",
+    "category": "New Arrival",
     "current_price": 640.0,
     "current_unit": "150 gm",
     "history": [
@@ -44810,7 +44810,7 @@ window.PRODUCT_DATA = {
     "id": "mazzak_cashews_nuts_roasted_with_garlic_butter_150_gm",
     "name": "Mazzak Cashews Nuts Roasted with Garlic Butter",
     "image": "https://chaldn.com/_mpimage/mazzak-cashews-nuts-roasted-with-garlic-butter-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185957&q=best&v=1&m=400&m=400&webp=1",
-    "category": "Nuts & Dried Fruits",
+    "category": "New Arrival",
     "current_price": 670.0,
     "current_unit": "150 gm",
     "history": [
@@ -44949,7 +44949,7 @@ window.PRODUCT_DATA = {
     "id": "mazzak_badam_roasted_peanut_170_gm",
     "name": "Mazzak Badam Roasted Peanut",
     "image": "https://chaldn.com/_mpimage/mazzak-badam-roasted-peanut-170-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185956&q=best&v=1&m=400&webp=1",
-    "category": "Nuts & Dried Fruits",
+    "category": "New Arrival",
     "current_price": 150.0,
     "current_unit": "170 gm",
     "history": [
@@ -45016,7 +45016,7 @@ window.PRODUCT_DATA = {
     "id": "mazzak_badam_cashews_roasted_corn_supreme_150_gm",
     "name": "Mazzak Badam Cashews Roasted Corn Supreme",
     "image": "https://chaldn.com/_mpimage/mazzak-badam-cashews-roasted-corn-supreme-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185955&q=best&v=1&m=400&webp=1",
-    "category": "Nuts & Dried Fruits",
+    "category": "New Arrival",
     "current_price": 670.0,
     "current_unit": "150 gm",
     "history": [
@@ -45155,7 +45155,7 @@ window.PRODUCT_DATA = {
     "id": "mazzak_badam_cashews_spicy_bbq_garlic_chicken_150_gm",
     "name": "Mazzak Badam Cashews Spicy BBQ Garlic Chicken",
     "image": "https://chaldn.com/_mpimage/mazzak-badam-cashews-spicy-bbq-garlic-chicken-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185954&q=best&v=1&m=400&m=400&webp=1",
-    "category": "Nuts & Dried Fruits",
+    "category": "New Arrival",
     "current_price": 670.0,
     "current_unit": "150 gm",
     "history": [
@@ -45294,7 +45294,7 @@ window.PRODUCT_DATA = {
     "id": "mazzak_mixed_nuts_150_gm",
     "name": "Mazzak Mixed Nuts",
     "image": "https://chaldn.com/_mpimage/mazzak-mixed-nuts-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185950&q=best&v=1&m=400&m=400&webp=1",
-    "category": "Nuts & Dried Fruits",
+    "category": "New Arrival",
     "current_price": 660.0,
     "current_unit": "150 gm",
     "history": [
@@ -66943,7 +66943,7 @@ window.PRODUCT_DATA = {
     "id": "the_dermalix_brightening_serum_30_ml",
     "name": "The Dermalix Brightening Serum",
     "image": "https://chaldn.com/_mpimage/the-dermalix-brightening-serum-30-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D183909&q=best&v=1&m=400&webp=1",
-    "category": "Serum, Oil & Toners",
+    "category": "New Arrival",
     "current_price": 890.0,
     "current_unit": "30 ml",
     "history": [
@@ -68296,7 +68296,7 @@ window.PRODUCT_DATA = {
     "id": "maybelline_baby_skin_instant_pore_eraser_primer_22_ml",
     "name": "Maybelline Baby Skin Instant Pore Eraser Primer",
     "image": "https://chaldn.com/_mpimage/maybelline-baby-skin-instant-pore-eraser-primer-22-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D186004&q=best&v=1&m=400&webp=1",
-    "category": "Serum, Oil & Toners",
+    "category": "New Arrival",
     "current_price": 919.0,
     "current_unit": "22 ml",
     "history": [
@@ -68713,7 +68713,7 @@ window.PRODUCT_DATA = {
     "id": "the_ordinary_glycolic_acid_toning_solution_100_ml",
     "name": "The Ordinary Glycolic Acid Toning Solution",
     "image": "https://chaldn.com/_mpimage/the-ordinary-glycolic-acid-toning-solution-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D186000&q=best&v=1&m=400&webp=1",
-    "category": "Serum, Oil & Toners",
+    "category": "New Arrival",
     "current_price": 1679.0,
     "current_unit": "100 ml",
     "history": [
@@ -68852,7 +68852,7 @@ window.PRODUCT_DATA = {
     "id": "mazzak_cashew_powder_150_gm",
     "name": "Mazzak Cashew Powder",
     "image": "https://chaldn.com/_mpimage/mazzak-cashew-powder-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185959&q=best&v=1&m=400&m=400&webp=1",
-    "category": "Nuts & Dried Fruits",
+    "category": "New Arrival",
     "current_price": 540.0,
     "current_unit": "150 gm",
     "history": [
@@ -69130,7 +69130,7 @@ window.PRODUCT_DATA = {
     "id": "tiam_vita_b3_source_niacinamide_serum_40_ml",
     "name": "TIAM Vita B3 Source Niacinamide Serum",
     "image": "https://chaldn.com/_mpimage/tiam-vita-b3-source-niacinamide-serum-40-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185934&q=best&v=1&m=400&webp=1",
-    "category": "Serum, Oil & Toners",
+    "category": "New Arrival",
     "current_price": 1179.0,
     "current_unit": "40 ml",
     "history": [
@@ -69269,7 +69269,7 @@ window.PRODUCT_DATA = {
     "id": "dr_althea_345_barrier_cream_50_ml",
     "name": "Dr. Althea 345 Barrier Cream",
     "image": "https://chaldn.com/_mpimage/dr-althea-345-barrier-cream-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185933&q=best&v=1&m=400&webp=1",
-    "category": "New Arrival",
+    "category": "Antiseptics",
     "current_price": 2479.0,
     "current_unit": "50 ml",
     "history": [
@@ -69408,7 +69408,7 @@ window.PRODUCT_DATA = {
     "id": "the_ordinary_aha_peeling_solution_30ml",
     "name": "The Ordinary AHA Peeling Solution",
     "image": "https://chaldn.com/_mpimage/the-ordinary-aha-peeling-solution-30ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185930&q=best&v=1&m=400&webp=1",
-    "category": "Serum, Oil & Toners",
+    "category": "New Arrival",
     "current_price": 2079.0,
     "current_unit": "30ml",
     "history": [
@@ -69547,7 +69547,7 @@ window.PRODUCT_DATA = {
     "id": "the_ordinary_salicylic_acid_30_ml",
     "name": "The Ordinary Salicylic Acid",
     "image": "https://chaldn.com/_mpimage/the-ordinary-salicylic-acid-30-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185929&q=best&v=1&m=400&webp=1",
-    "category": "Serum, Oil & Toners",
+    "category": "New Arrival",
     "current_price": 1719.0,
     "current_unit": "30 ml",
     "history": [
@@ -69686,7 +69686,7 @@ window.PRODUCT_DATA = {
     "id": "the_ordinary_face_serum_caffeine_solution_30_ml",
     "name": "The Ordinary Face Serum Caffeine Solution",
     "image": "https://chaldn.com/_mpimage/the-ordinary-face-serum-caffeine-solution-30-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185928&q=best&v=1&m=400&webp=1",
-    "category": "Serum, Oil & Toners",
+    "category": "New Arrival",
     "current_price": 1699.0,
     "current_unit": "30 ml",
     "history": [
@@ -69825,7 +69825,7 @@ window.PRODUCT_DATA = {
     "id": "the_ordinary_face_serum_hyaluronic_acid_30_ml",
     "name": "The Ordinary Face Serum Hyaluronic Acid",
     "image": "https://chaldn.com/_mpimage/the-ordinary-face-serum-hyaluronic-acid-30-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185925&q=best&v=1&m=400&webp=1",
-    "category": "Serum, Oil & Toners",
+    "category": "New Arrival",
     "current_price": 1829.0,
     "current_unit": "30 ml",
     "history": [
@@ -69964,7 +69964,7 @@ window.PRODUCT_DATA = {
     "id": "the_ordinary_face_serum_alpha_arbutin_30_ml",
     "name": "The Ordinary Face Serum Alpha Arbutin",
     "image": "https://chaldn.com/_mpimage/the-ordinary-face-serum-alpha-arbutin-30-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185924&q=best&v=1&m=400&webp=1",
-    "category": "Serum, Oil & Toners",
+    "category": "New Arrival",
     "current_price": 2069.0,
     "current_unit": "30 ml",
     "history": [
@@ -70103,7 +70103,7 @@ window.PRODUCT_DATA = {
     "id": "the_ordinary_face_serum_niacinamide_30_ml",
     "name": "The Ordinary Face Serum Niacinamide",
     "image": "https://chaldn.com/_mpimage/the-ordinary-face-serum-niacinamide-30-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185923&q=best&v=1&m=400&webp=1",
-    "category": "Serum, Oil & Toners",
+    "category": "New Arrival",
     "current_price": 1229.0,
     "current_unit": "30 ml",
     "history": [
@@ -70242,7 +70242,7 @@ window.PRODUCT_DATA = {
     "id": "mielle_rosemary_mint_scalp_hair_strengthening_oil_59_ml",
     "name": "Mielle Rosemary Mint Scalp & Hair Strengthening Oil",
     "image": "https://chaldn.com/_mpimage/mielle-rosemary-mint-scalp-hair-strengthening-oil-59-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185884&q=best&v=1&m=400&webp=1",
-    "category": "Serum, Oil & Toners",
+    "category": "New Arrival",
     "current_price": 1849.0,
     "current_unit": "59 ml",
     "history": [
@@ -70579,7 +70579,7 @@ window.PRODUCT_DATA = {
     "id": "cetaphil_vitamin_c_serum_30_ml",
     "name": "Cetaphil Vitamin C Serum",
     "image": "https://chaldn.com/_mpimage/cetaphil-vitamin-c-serum-30-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185878&q=best&v=1&m=400&webp=1",
-    "category": "Serum, Oil & Toners",
+    "category": "New Arrival",
     "current_price": 2989.0,
     "current_unit": "30 ml",
     "history": [
@@ -71996,7 +71996,7 @@ window.PRODUCT_DATA = {
     "id": "cosrx_advanced_snail_96_mucin_power_essence_serum_100_ml",
     "name": "Cosrx Advanced Snail 96 Mucin Power Essence Serum",
     "image": "https://chaldn.com/_mpimage/cosrx-advanced-snail-96-mucin-power-essence-serum-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185334&q=best&v=1&m=400&webp=1",
-    "category": "Serum, Oil & Toners",
+    "category": "New Arrival",
     "current_price": 1888.0,
     "current_unit": "100 ml",
     "history": [
@@ -72646,7 +72646,7 @@ window.PRODUCT_DATA = {
     "id": "axis_y_dark_spot_correcting_glow_serum_50_ml",
     "name": "AXIS-Y Dark Spot Correcting Glow Serum",
     "image": "https://chaldn.com/_mpimage/axis-y-dark-spot-correcting-glow-serum-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D186232&q=best&v=1&m=400&webp=1",
-    "category": "Serum, Oil & Toners",
+    "category": "New Arrival",
     "current_price": 1594.0,
     "current_unit": "50 ml",
     "history": [
@@ -72785,7 +72785,7 @@ window.PRODUCT_DATA = {
     "id": "cetaphil_ceramide_serum_30_ml",
     "name": "Cetaphil Ceramide Serum",
     "image": "https://chaldn.com/_mpimage/cetaphil-ceramide-serum-30-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185319&q=best&v=1&m=400&webp=1",
-    "category": "Serum, Oil & Toners",
+    "category": "New Arrival",
     "current_price": 4576.0,
     "current_unit": "30 ml",
     "history": [
@@ -73531,7 +73531,7 @@ window.PRODUCT_DATA = {
     "id": "nature_beauty_salicylic_acid_face_serum_30_ml",
     "name": "Nature Beauty Salicylic Acid Face Serum",
     "image": "https://chaldn.com/_mpimage/nature-beauty-salicylic-acid-face-serum-30-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D184720&q=best&v=1&m=400&webp=1",
-    "category": "Serum, Oil & Toners",
+    "category": "New Arrival",
     "current_price": 575.0,
     "current_unit": "30 ml",
     "history": [
@@ -73948,7 +73948,7 @@ window.PRODUCT_DATA = {
     "id": "nature_beauty_hyaluronic_glycolic_acid_face_serum_30_ml",
     "name": "Nature Beauty Hyaluronic & Glycolic Acid Face Serum",
     "image": "https://chaldn.com/_mpimage/nature-beauty-hyaluronic-glycolic-acid-face-serum-30-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D184700&q=best&v=1&m=400&webp=1",
-    "category": "Serum, Oil & Toners",
+    "category": "New Arrival",
     "current_price": 575.0,
     "current_unit": "30 ml",
     "history": [
@@ -74087,7 +74087,7 @@ window.PRODUCT_DATA = {
     "id": "the_dermalix_acne_treatment_serum_30ml",
     "name": "The Dermalix Acne Treatment Serum",
     "image": "https://chaldn.com/_mpimage/the-dermalix-acne-treatment-serum-30ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D183910&q=best&v=1&m=400&webp=1",
-    "category": "Serum, Oil & Toners",
+    "category": "New Arrival",
     "current_price": 890.0,
     "current_unit": "30ml",
     "history": [
@@ -103423,7 +103423,7 @@ window.PRODUCT_DATA = {
     "id": "white_sesame_seed_til__100_gm",
     "name": "White Sesame Seed (Til)",
     "image": "https://chaldn.com/_mpimage/white-sesame-seed-til-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D184017&q=best&v=1&m=400&webp=1",
-    "category": "Nuts & Dried Fruits",
+    "category": "Keto Food",
     "current_price": 45.0,
     "current_unit": "100 gm",
     "history": [
@@ -105241,7 +105241,7 @@ window.PRODUCT_DATA = {
     "id": "bpm_white_till_200_gm",
     "name": "BPM White Till",
     "image": "https://chaldn.com/_mpimage/bpm-white-till-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52502&q=best&v=1&m=400&m=400&webp=1",
-    "category": "Nuts & Dried Fruits",
+    "category": "Keto Food",
     "current_price": 90.0,
     "current_unit": "200 gm",
     "history": [
@@ -130450,7 +130450,7 @@ window.PRODUCT_DATA = {
     "id": "white_tone_face_powder_50_gm",
     "name": "White Tone Face Powder",
     "image": "https://chaldn.com/_mpimage/white-tone-face-powder-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D138289&q=best&v=1&m=400&webp=1",
-    "category": "Serum, Oil & Toners",
+    "category": "Talcom Powder",
     "current_price": 300.0,
     "current_unit": "50 gm",
     "history": [
@@ -170123,7 +170123,7 @@ window.PRODUCT_DATA = {
     "id": "ujjwala_care_gloss_hair_serum_100_ml",
     "name": "Ujjwala Care Gloss Hair Serum",
     "image": "https://chaldn.com/_mpimage/ujjwala-care-gloss-hair-serum-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177345&q=best&v=1&m=400&webp=1",
-    "category": "Serum, Oil & Toners",
+    "category": "Men's Hair Care",
     "current_price": 490.0,
     "current_unit": "100 ml",
     "history": [
@@ -178588,7 +178588,7 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-03-02",
-        "timestamp": "2026-03-02T17:52:52.582638",
+        "timestamp": "2026-03-02T23:07:24.814519",
         "price": 550.0,
         "unit": "100 ml",
         "norm_price": 5500.0,
@@ -272707,6 +272707,14 @@ window.PRODUCT_DATA = {
         "unit": "each",
         "norm_price": 200.0,
         "norm_unit": "each"
+      },
+      {
+        "date": "2026-03-02",
+        "timestamp": "2026-03-02T23:07:24.814519",
+        "price": 200.0,
+        "unit": "each",
+        "norm_price": 200.0,
+        "norm_unit": "each"
       }
     ],
     "norm_price_display": "200.0 / each"
@@ -272961,6 +272969,14 @@ window.PRODUCT_DATA = {
         "unit": "30 pcs",
         "norm_price": 4.0,
         "norm_unit": "1 pc"
+      },
+      {
+        "date": "2026-03-02",
+        "timestamp": "2026-03-02T23:07:24.814519",
+        "price": 120.0,
+        "unit": "30 pcs",
+        "norm_price": 4.0,
+        "norm_unit": "1 pc"
       }
     ],
     "norm_price_display": "4.0 / 1 pc"
@@ -273084,6 +273100,14 @@ window.PRODUCT_DATA = {
         "unit": "",
         "norm_price": 250.0,
         "norm_unit": ""
+      },
+      {
+        "date": "2026-03-02",
+        "timestamp": "2026-03-02T23:07:24.814519",
+        "price": 250.0,
+        "unit": "",
+        "norm_price": 250.0,
+        "norm_unit": ""
       }
     ],
     "norm_price_display": "250.0 / "
@@ -273203,6 +273227,14 @@ window.PRODUCT_DATA = {
       {
         "date": "2026-03-01",
         "timestamp": "2026-03-01T15:36:15.225487",
+        "price": 400.0,
+        "unit": "",
+        "norm_price": 400.0,
+        "norm_unit": ""
+      },
+      {
+        "date": "2026-03-02",
+        "timestamp": "2026-03-02T23:07:24.814519",
         "price": 400.0,
         "unit": "",
         "norm_price": 400.0,
@@ -273592,6 +273624,14 @@ window.PRODUCT_DATA = {
         "unit": "25 pcs",
         "norm_price": 4.0,
         "norm_unit": "1 pc"
+      },
+      {
+        "date": "2026-03-02",
+        "timestamp": "2026-03-02T23:07:24.814519",
+        "price": 100.0,
+        "unit": "25 pcs",
+        "norm_price": 4.0,
+        "norm_unit": "1 pc"
       }
     ],
     "norm_price_display": "4.0 / 1 pc"
@@ -273711,6 +273751,14 @@ window.PRODUCT_DATA = {
       {
         "date": "2026-03-01",
         "timestamp": "2026-03-01T15:36:15.225487",
+        "price": 300.0,
+        "unit": "100 pcs",
+        "norm_price": 3.0,
+        "norm_unit": "1 pc"
+      },
+      {
+        "date": "2026-03-02",
+        "timestamp": "2026-03-02T23:07:24.814519",
         "price": 300.0,
         "unit": "100 pcs",
         "norm_price": 3.0,
@@ -274362,6 +274410,14 @@ window.PRODUCT_DATA = {
         "unit": "75 gm",
         "norm_price": 10533.33,
         "norm_unit": "1 kg"
+      },
+      {
+        "date": "2026-03-02",
+        "timestamp": "2026-03-02T23:07:24.814519",
+        "price": 790.0,
+        "unit": "75 gm",
+        "norm_price": 10533.33,
+        "norm_unit": "1 kg"
       }
     ],
     "norm_price_display": "10533.33 / 1 kg"
@@ -274481,6 +274537,14 @@ window.PRODUCT_DATA = {
       {
         "date": "2026-03-01",
         "timestamp": "2026-03-01T15:36:15.225487",
+        "price": 175.0,
+        "unit": "",
+        "norm_price": 175.0,
+        "norm_unit": ""
+      },
+      {
+        "date": "2026-03-02",
+        "timestamp": "2026-03-02T23:07:24.814519",
         "price": 175.0,
         "unit": "",
         "norm_price": 175.0,
@@ -274735,6 +274799,14 @@ window.PRODUCT_DATA = {
       {
         "date": "2026-03-01",
         "timestamp": "2026-03-01T15:36:15.225487",
+        "price": 120.0,
+        "unit": "each",
+        "norm_price": 120.0,
+        "norm_unit": "each"
+      },
+      {
+        "date": "2026-03-02",
+        "timestamp": "2026-03-02T23:07:24.814519",
         "price": 120.0,
         "unit": "each",
         "norm_price": 120.0,
