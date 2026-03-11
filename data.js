@@ -15157,6 +15157,14 @@ window.PRODUCT_DATA = {
         "unit": "300 gm",
         "norm_price": 350.0,
         "norm_unit": "1 kg"
+      },
+      {
+        "date": "2026-03-10",
+        "timestamp": "2026-03-10T09:39:25.479081",
+        "price": 105.0,
+        "unit": "300 gm",
+        "norm_price": 350.0,
+        "norm_unit": "1 kg"
       }
     ],
     "norm_price_display": "350.0 / 1 kg",
@@ -27305,7 +27313,7 @@ window.PRODUCT_DATA = {
     "name": "Chicken Eggs (Layer)",
     "image": "https://chaldn.com/_mpimage/chicken-eggs-layer-6-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D182905&q=best&v=1&m=400&webp=1",
     "category": "Ramadan",
-    "current_price": 55.0,
+    "current_price": 60.0,
     "current_unit": "6 pcs",
     "history": [
       {
@@ -27494,14 +27502,14 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-03-10",
-        "timestamp": "2026-03-10T02:03:15.986436",
-        "price": 55.0,
+        "timestamp": "2026-03-10T09:39:25.479081",
+        "price": 60.0,
         "unit": "6 pcs",
-        "norm_price": 9.17,
+        "norm_price": 10.0,
         "norm_unit": "1 pc"
       }
     ],
-    "norm_price_display": "9.17 / 1 pc"
+    "norm_price_display": "10.0 / 1 pc"
   },
   "roast_chicken_10_gm_275_gm": {
     "id": "roast_chicken_10_gm_275_gm",
@@ -98821,7 +98829,7 @@ window.PRODUCT_DATA = {
     "id": "dr_althea_345_barrier_cream_50_ml",
     "name": "Dr. Althea 345 Barrier Cream",
     "image": "https://chaldn.com/_mpimage/dr-althea-345-barrier-cream-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185933&q=best&v=1&m=400&webp=1",
-    "category": "New Arrival",
+    "category": "Antiseptics",
     "current_price": 2479.0,
     "current_unit": "50 ml",
     "history": [
@@ -259188,7 +259196,7 @@ window.PRODUCT_DATA = {
       },
       {
         "date": "2026-03-10",
-        "timestamp": "2026-03-10T02:03:15.986436",
+        "timestamp": "2026-03-10T09:39:25.479081",
         "price": 550.0,
         "unit": "100 ml",
         "norm_price": 5500.0,
@@ -620437,7 +620445,7 @@ window.PRODUCT_DATA = {
     "name": "Fresh Haleem Mix",
     "image": "https://chaldn.com/_mpimage/fresh-haleem-mix-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D113118&q=best&v=1&m=400&webp=1",
     "category": "Ready Mix",
-    "current_price": 65.0,
+    "current_price": 70.0,
     "current_unit": "200 gm",
     "history": [
       {
@@ -620471,9 +620479,17 @@ window.PRODUCT_DATA = {
         "unit": "200 gm",
         "norm_price": 325.0,
         "norm_unit": "1 kg"
+      },
+      {
+        "date": "2026-03-10",
+        "timestamp": "2026-03-10T09:39:25.479081",
+        "price": 70.0,
+        "unit": "200 gm",
+        "norm_price": 350.0,
+        "norm_unit": "1 kg"
       }
     ],
-    "norm_price_display": "325.0 / 1 kg"
+    "norm_price_display": "350.0 / 1 kg"
   },
   "radhuni_hyderabadi_biryani_masala_45_gm": {
     "id": "radhuni_hyderabadi_biryani_masala_45_gm",
@@ -671201,7 +671217,7 @@ window.PRODUCT_DATA = {
     "id": "dekko_kheer_cookies_biscuit_family_pack_265_gm",
     "name": "Dekko Kheer Cookies Biscuit Family Pack",
     "image": "https://chaldn.com/_mpimage/dekko-kheer-cookies-biscuit-family-pack-265-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103393&q=best&v=1&m=400&webp=1",
-    "category": "Cookies",
+    "category": "Flash Sales",
     "current_price": 59.0,
     "current_unit": "265 gm",
     "history": [
@@ -674914,6 +674930,14 @@ window.PRODUCT_DATA = {
       {
         "date": "2026-03-08",
         "timestamp": "2026-03-08T22:34:12.164811",
+        "price": 119.0,
+        "unit": "400 gm",
+        "norm_price": 297.5,
+        "norm_unit": "1 kg"
+      },
+      {
+        "date": "2026-03-10",
+        "timestamp": "2026-03-10T09:39:25.479081",
         "price": 119.0,
         "unit": "400 gm",
         "norm_price": 297.5,
@@ -694060,6 +694084,14 @@ window.PRODUCT_DATA = {
         "unit": "500 gm",
         "norm_price": 278.0,
         "norm_unit": "1 kg"
+      },
+      {
+        "date": "2026-03-10",
+        "timestamp": "2026-03-10T09:39:25.479081",
+        "price": 139.0,
+        "unit": "500 gm",
+        "norm_price": 278.0,
+        "norm_unit": "1 kg"
       }
     ],
     "norm_price_display": "278.0 / 1 kg"
@@ -701120,6 +701152,14 @@ window.PRODUCT_DATA = {
       {
         "date": "2026-03-06",
         "timestamp": "2026-03-06T10:56:18.676169",
+        "price": 29.0,
+        "unit": "500 gm",
+        "norm_price": 58.0,
+        "norm_unit": "1 kg"
+      },
+      {
+        "date": "2026-03-10",
+        "timestamp": "2026-03-10T09:39:25.479081",
         "price": 29.0,
         "unit": "500 gm",
         "norm_price": 58.0,
@@ -708668,5 +708708,24 @@ window.PRODUCT_DATA = {
       }
     ],
     "norm_price_display": "198.0 / 1 L"
+  },
+  "anaros_pineapple_special_offer_each": {
+    "id": "anaros_pineapple_special_offer_each",
+    "name": "Anaros (Pineapple) Special Offer",
+    "image": "https://chaldn.com/_mpimage/anaros-pineapple-special-offer-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D187436&q=best&v=1&m=400&webp=1",
+    "category": "Ramadan",
+    "current_price": 69.0,
+    "current_unit": "each",
+    "history": [
+      {
+        "date": "2026-03-10",
+        "timestamp": "2026-03-10T09:39:25.479081",
+        "price": 69.0,
+        "unit": "each",
+        "norm_price": 69.0,
+        "norm_unit": "each"
+      }
+    ],
+    "norm_price_display": "69.0 / each"
   }
 };
